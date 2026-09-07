@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,State,Category,Product,Unit_Price,Quantity,Discount,Sales,Profit,Month,Month_Number,Quarter
+ORD00287,2025-01-02,CUST0118,Customer 118,South,Telangana,Office Supplies,Printer Paper,1643,3,0.1,4436.1,1557.36,Jan,1,Q1
+ORD00250,2025-01-02,CUST0177,Customer 177,North,Uttar Pradesh,Furniture,Bookshelf,2333,2,0.05,4432.7,1508.07,Jan,1,Q1
+ORD00388,2025-01-03,CUST0135,Customer 135,South,Kerala,Office Supplies,File Folder,954,4,0.0,3816.0,1192.69,Jan,1,Q1
+ORD00491,2025-01-05,CUST0079,Customer 79,West,Goa,Technology,Headphones,42307,1,0.05,40191.65,14254.29,Jan,1,Q1
+ORD00195,2025-01-05,CUST0070,Customer 70,South,Telangana,Office Supplies,Notebook,787,5,0.05,3738.25,1359.87,Jan,1,Q1
+ORD00392,2025-01-06,CUST0106,Customer 106,West,Maharashtra,Accessories,USB Cable,4659,1,0.0,4659.0,760.1,Jan,1,Q1
+ORD00540,2025-01-06,CUST0068,Customer 68,West,Maharashtra,Office Supplies,Pens,893,1,0.0,893.0,134.3,Jan,1,Q1
+ORD00108,2025-01-07,CUST0165,Customer 165,East,Jharkhand,Accessories,Wallet,4527,5,0.05,21503.25,6499.19,Jan,1,Q1
+ORD00076,2025-01-07,CUST0130,Customer 130,West,Gujarat,Accessories,Watch,614,2,0.0,1228.0,392.24,Jan,1,Q1
+ORD00564,2025-01-07,CUST0080,Customer 80,North,Haryana,Technology,Headphones,17059,3,0.15,43500.45,13372.39,Jan,1,Q1
+ORD00255,2025-01-08,CUST0147,Customer 147,South,Telangana,Furniture,Office Chair,7552,3,0.0,22656.0,7593.98,Jan,1,Q1
+ORD00071,2025-01-08,CUST0115,Customer 115,North,Punjab,Furniture,Sofa,6954,1,0.05,6606.3,1583.24,Jan,1,Q1
+ORD00023,2025-01-09,CUST0129,Customer 129,South,Tamil Nadu,Accessories,USB Cable,5673,4,0.05,21557.4,3625.25,Jan,1,Q1
+ORD00456,2025-01-10,CUST0118,Customer 118,North,Haryana,Furniture,Desk,11941,1,0.1,10746.9,2139.4,Jan,1,Q1
+ORD00554,2025-01-10,CUST0070,Customer 70,West,Gujarat,Furniture,Sofa,14875,1,0.0,14875.0,5339.1,Jan,1,Q1
+ORD00530,2025-01-11,CUST0165,Customer 165,South,Tamil Nadu,Office Supplies,Pens,1289,1,0.15,1095.65,364.57,Jan,1,Q1
+ORD00340,2025-01-11,CUST0108,Customer 108,South,Karnataka,Technology,Monitor,29008,1,0.2,23206.4,4400.99,Jan,1,Q1
+ORD00322,2025-01-11,CUST0149,Customer 149,North,Delhi,Office Supplies,Printer Paper,314,5,0.0,1570.0,491.68,Jan,1,Q1
+ORD00198,2025-01-12,CUST0055,Customer 55,West,Maharashtra,Accessories,Power Bank,457,2,0.0,914.0,248.53,Jan,1,Q1
+ORD00160,2025-01-12,CUST0003,Customer 3,West,Rajasthan,Furniture,Desk,4809,3,0.1,12984.3,3085.24,Jan,1,Q1
+ORD00073,2025-01-12,CUST0170,Customer 170,North,Haryana,Technology,Monitor,37868,5,0.05,179873.0,45280.93,Jan,1,Q1
+ORD00032,2025-01-13,CUST0039,Customer 39,West,Goa,Accessories,Backpack,5846,2,0.1,10522.8,1952.75,Jan,1,Q1
+ORD00469,2025-01-14,CUST0059,Customer 59,South,Tamil Nadu,Accessories,Watch,5817,2,0.2,9307.2,2280.96,Jan,1,Q1
+ORD00273,2025-01-16,CUST0002,Customer 2,East,Jharkhand,Office Supplies,Pens,1701,1,0.2,1360.8,312.6,Jan,1,Q1
+ORD00587,2025-01-16,CUST0165,Customer 165,East,West Bengal,Office Supplies,Notebook,2448,3,0.05,6976.8,1415.65,Jan,1,Q1
+ORD00122,2025-01-16,CUST0143,Customer 143,East,Jharkhand,Office Supplies,Notebook,568,5,0.1,2556.0,944.19,Jan,1,Q1
+ORD00524,2025-01-16,CUST0043,Customer 43,West,Rajasthan,Technology,Keyboard,39370,1,0.05,37401.5,11552.64,Jan,1,Q1
+ORD00485,2025-01-17,CUST0072,Customer 72,West,Rajasthan,Furniture,Bookshelf,12905,4,0.05,49039.0,8838.43,Jan,1,Q1
+ORD00120,2025-01-17,CUST0012,Customer 12,North,Uttar Pradesh,Technology,Headphones,52674,5,0.0,263370.0,42098.31,Jan,1,Q1
+ORD00144,2025-01-17,CUST0148,Customer 148,North,Haryana,Technology,Monitor,19471,4,0.0,77884.0,23970.26,Jan,1,Q1
+ORD00028,2025-01-17,CUST0061,Customer 61,West,Goa,Office Supplies,Notebook,895,3,0.05,2550.75,498.79,Jan,1,Q1
+ORD00460,2025-01-18,CUST0113,Customer 113,South,Tamil Nadu,Office Supplies,Notebook,954,4,0.1,3434.4,762.17,Jan,1,Q1
+ORD00228,2025-01-19,CUST0165,Customer 165,West,Rajasthan,Furniture,Table Lamp,2424,1,0.05,2302.8,710.62,Jan,1,Q1
+ORD00259,2025-01-21,CUST0119,Customer 119,East,Bihar,Accessories,Backpack,7433,1,0.05,7061.35,1015.52,Jan,1,Q1
+ORD00389,2025-01-21,CUST0038,Customer 38,South,Tamil Nadu,Furniture,Desk,14352,5,0.0,71760.0,24071.52,Jan,1,Q1
+ORD00307,2025-01-22,CUST0069,Customer 69,South,Telangana,Accessories,Wallet,5382,5,0.15,22873.5,8586.99,Jan,1,Q1
+ORD00163,2025-01-24,CUST0097,Customer 97,West,Maharashtra,Technology,Headphones,59446,4,0.0,237784.0,35527.94,Jan,1,Q1
+ORD00206,2025-01-25,CUST0169,Customer 169,South,Telangana,Office Supplies,File Folder,1128,5,0.05,5358.0,1948.38,Jan,1,Q1
+ORD00531,2025-01-25,CUST0093,Customer 93,North,Uttar Pradesh,Accessories,Watch,6353,2,0.15,10800.1,2467.28,Jan,1,Q1
+ORD00480,2025-01-25,CUST0047,Customer 47,East,West Bengal,Technology,Headphones,36899,1,0.0,36899.0,12507.85,Jan,1,Q1
+ORD00549,2025-01-25,CUST0148,Customer 148,South,Telangana,Technology,Monitor,48404,5,0.0,242020.0,51655.74,Jan,1,Q1
+ORD00542,2025-01-26,CUST0111,Customer 111,North,Uttar Pradesh,Furniture,Table Lamp,2484,3,0.15,6334.2,1913.05,Jan,1,Q1
+ORD00468,2025-01-26,CUST0006,Customer 6,North,Haryana,Furniture,Sofa,13969,2,0.1,25144.2,6346.97,Jan,1,Q1
+ORD00185,2025-01-27,CUST0019,Customer 19,East,Bihar,Furniture,Table Lamp,14813,5,0.1,66658.5,16961.9,Jan,1,Q1
+ORD00591,2025-01-27,CUST0023,Customer 23,North,Delhi,Technology,Smartphone,57030,2,0.0,114060.0,36200.31,Jan,1,Q1
+ORD00027,2025-01-27,CUST0115,Customer 115,West,Rajasthan,Office Supplies,Notebook,549,5,0.05,2607.75,423.85,Jan,1,Q1
+ORD00150,2025-01-27,CUST0025,Customer 25,North,Haryana,Technology,Smartphone,18375,4,0.05,69825.0,18631.56,Jan,1,Q1
+ORD00009,2025-01-28,CUST0033,Customer 33,West,Rajasthan,Office Supplies,Notebook,458,5,0.15,1946.5,435.51,Jan,1,Q1
+ORD00518,2025-01-28,CUST0011,Customer 11,West,Gujarat,Office Supplies,Notebook,1541,1,0.0,1541.0,541.03,Jan,1,Q1
+ORD00371,2025-01-29,CUST0135,Customer 135,West,Gujarat,Furniture,Office Chair,16650,3,0.1,44955.0,10597.48,Jan,1,Q1
+ORD00525,2025-01-30,CUST0165,Customer 165,South,Kerala,Furniture,Bookshelf,14540,2,0.05,27626.0,7166.24,Jan,1,Q1
+ORD00236,2025-01-30,CUST0147,Customer 147,North,Haryana,Office Supplies,Pens,1981,3,0.0,5943.0,1781.61,Jan,1,Q1
+ORD00294,2025-01-31,CUST0136,Customer 136,West,Maharashtra,Office Supplies,Notebook,1009,4,0.05,3834.2,941.97,Jan,1,Q1
+ORD00315,2025-01-31,CUST0021,Customer 21,North,Delhi,Technology,Laptop,57922,5,0.05,275129.5,54391.25,Jan,1,Q1
+ORD00553,2025-02-03,CUST0147,Customer 147,North,Uttar Pradesh,Office Supplies,Pens,560,2,0.0,1120.0,213.06,Feb,2,Q1
+ORD00551,2025-02-04,CUST0146,Customer 146,North,Punjab,Technology,Headphones,56431,1,0.05,53609.45,18758.48,Feb,2,Q1
+ORD00010,2025-02-04,CUST0151,Customer 151,South,Kerala,Accessories,USB Cable,3895,5,0.1,17527.5,3978.5,Feb,2,Q1
+ORD00197,2025-02-05,CUST0035,Customer 35,West,Maharashtra,Technology,Keyboard,60945,4,0.0,243780.0,59737.99,Feb,2,Q1
+ORD00137,2025-02-06,CUST0124,Customer 124,North,Haryana,Accessories,Wallet,1224,3,0.1,3304.8,862.52,Feb,2,Q1
+ORD00127,2025-02-08,CUST0013,Customer 13,East,Bihar,Technology,Headphones,28988,2,0.15,49279.6,9278.96,Feb,2,Q1
+ORD00147,2025-02-08,CUST0174,Customer 174,West,Gujarat,Office Supplies,Pens,817,5,0.15,3472.25,1234.29,Feb,2,Q1
+ORD00077,2025-02-08,CUST0018,Customer 18,West,Maharashtra,Office Supplies,Pens,1986,1,0.1,1787.4,601.02,Feb,2,Q1
+ORD00081,2025-02-09,CUST0062,Customer 62,East,Bihar,Technology,Keyboard,11789,1,0.0,11789.0,2995.79,Feb,2,Q1
+ORD00136,2025-02-09,CUST0029,Customer 29,South,Telangana,Technology,Laptop,18802,1,0.15,15981.7,5937.18,Feb,2,Q1
+ORD00011,2025-02-11,CUST0001,Customer 1,East,Odisha,Furniture,Sofa,1202,3,0.05,3425.7,950.26,Feb,2,Q1
+ORD00113,2025-02-11,CUST0109,Customer 109,North,Delhi,Office Supplies,Stapler,884,3,0.15,2254.2,570.04,Feb,2,Q1
+ORD00332,2025-02-12,CUST0007,Customer 7,South,Telangana,Technology,Monitor,53155,1,0.05,50497.25,19172.55,Feb,2,Q1
+ORD00056,2025-02-13,CUST0113,Customer 113,West,Gujarat,Office Supplies,Pens,903,1,0.0,903.0,134.39,Feb,2,Q1
+ORD00489,2025-02-14,CUST0164,Customer 164,West,Rajasthan,Technology,Keyboard,5169,2,0.0,10338.0,3842.41,Feb,2,Q1
+ORD00013,2025-02-14,CUST0071,Customer 71,North,Haryana,Furniture,Sofa,10614,3,0.0,31842.0,4995.14,Feb,2,Q1
+ORD00333,2025-02-14,CUST0051,Customer 51,East,Odisha,Office Supplies,File Folder,536,3,0.15,1366.8,320.55,Feb,2,Q1
+ORD00282,2025-02-14,CUST0011,Customer 11,North,Haryana,Furniture,Office Chair,2217,3,0.05,6318.45,991.6,Feb,2,Q1
+ORD00545,2025-02-15,CUST0054,Customer 54,West,Goa,Furniture,Sofa,15697,4,0.1,56509.2,16102.85,Feb,2,Q1
+ORD00370,2025-02-16,CUST0120,Customer 120,South,Tamil Nadu,Furniture,Table Lamp,17133,1,0.1,15419.7,4629.16,Feb,2,Q1
+ORD00188,2025-02-16,CUST0118,Customer 118,East,Jharkhand,Furniture,Desk,2498,1,0.05,2373.1,601.91,Feb,2,Q1
+ORD00520,2025-02-16,CUST0093,Customer 93,South,Tamil Nadu,Furniture,Bookshelf,15114,1,0.05,14358.3,4121.61,Feb,2,Q1
+ORD00481,2025-02-17,CUST0094,Customer 94,North,Uttar Pradesh,Office Supplies,Printer Paper,454,1,0.0,454.0,155.13,Feb,2,Q1
+ORD00216,2025-02-17,CUST0113,Customer 113,West,Maharashtra,Furniture,Desk,716,1,0.15,608.6,113.12,Feb,2,Q1
+ORD00402,2025-02-17,CUST0139,Customer 139,East,Odisha,Accessories,Backpack,4014,1,0.1,3612.6,590.93,Feb,2,Q1
+ORD00420,2025-02-20,CUST0110,Customer 110,East,Odisha,Technology,Headphones,47249,4,0.05,179546.2,59107.93,Feb,2,Q1
+ORD00240,2025-02-20,CUST0107,Customer 107,East,Odisha,Technology,Monitor,29472,5,0.1,132624.0,20807.64,Feb,2,Q1
+ORD00065,2025-02-20,CUST0083,Customer 83,West,Gujarat,Furniture,Sofa,14156,5,0.05,67241.0,23467.23,Feb,2,Q1
+ORD00512,2025-02-21,CUST0019,Customer 19,East,Odisha,Office Supplies,Notebook,250,5,0.1,1125.0,220.28,Feb,2,Q1
+ORD00582,2025-02-21,CUST0070,Customer 70,East,Jharkhand,Accessories,Watch,4815,2,0.05,9148.5,1298.06,Feb,2,Q1
+ORD00050,2025-02-22,CUST0052,Customer 52,East,Jharkhand,Furniture,Table Lamp,6186,5,0.0,30930.0,7281.36,Feb,2,Q1
+ORD00316,2025-02-22,CUST0054,Customer 54,West,Goa,Accessories,Watch,1837,4,0.1,6613.2,2129.03,Feb,2,Q1
+ORD00509,2025-02-23,CUST0172,Customer 172,South,Karnataka,Furniture,Office Chair,14866,3,0.15,37908.3,5518.29,Feb,2,Q1
+ORD00391,2025-02-24,CUST0122,Customer 122,South,Telangana,Furniture,Office Chair,15087,1,0.15,12823.95,4208.12,Feb,2,Q1
+ORD00292,2025-02-25,CUST0034,Customer 34,West,Rajasthan,Technology,Keyboard,24167,4,0.05,91834.6,31754.33,Feb,2,Q1
+ORD00431,2025-02-25,CUST0131,Customer 131,South,Kerala,Technology,Keyboard,58324,1,0.2,46659.2,12806.19,Feb,2,Q1
+ORD00574,2025-02-25,CUST0153,Customer 153,North,Haryana,Furniture,Sofa,16406,2,0.0,32812.0,7246.36,Feb,2,Q1
+ORD00590,2025-02-27,CUST0140,Customer 140,North,Delhi,Office Supplies,Printer Paper,1941,1,0.1,1746.9,598.51,Feb,2,Q1
+ORD00143,2025-03-01,CUST0158,Customer 158,West,Gujarat,Office Supplies,File Folder,665,1,0.2,532.0,158.51,Mar,3,Q1
+ORD00048,2025-03-03,CUST0013,Customer 13,North,Punjab,Accessories,Power Bank,2576,1,0.0,2576.0,745.35,Mar,3,Q1
+ORD00082,2025-03-03,CUST0004,Customer 4,West,Rajasthan,Office Supplies,Printer Paper,1950,1,0.05,1852.5,382.55,Mar,3,Q1
+ORD00408,2025-03-03,CUST0131,Customer 131,North,Haryana,Furniture,Sofa,16635,2,0.15,28279.5,6817.8,Mar,3,Q1
+ORD00211,2025-03-03,CUST0166,Customer 166,West,Goa,Technology,Monitor,53654,2,0.0,107308.0,17943.51,Mar,3,Q1
+ORD00212,2025-03-03,CUST0014,Customer 14,South,Kerala,Office Supplies,Pens,1844,5,0.1,8298.0,3131.27,Mar,3,Q1
+ORD00008,2025-03-04,CUST0065,Customer 65,South,Karnataka,Furniture,Office Chair,16916,1,0.1,15224.4,5059.19,Mar,3,Q1
+ORD00132,2025-03-04,CUST0153,Customer 153,East,Bihar,Accessories,Wallet,6957,4,0.0,27828.0,4278.4,Mar,3,Q1
+ORD00089,2025-03-04,CUST0089,Customer 89,South,Tamil Nadu,Furniture,Table Lamp,11235,3,0.1,30334.5,7597.35,Mar,3,Q1
+ORD00482,2025-03-05,CUST0149,Customer 149,North,Delhi,Technology,Headphones,41349,5,0.0,206745.0,65438.14,Mar,3,Q1
+ORD00153,2025-03-05,CUST0063,Customer 63,North,Delhi,Technology,Laptop,6309,5,0.0,31545.0,5948.94,Mar,3,Q1
+ORD00471,2025-03-06,CUST0152,Customer 152,East,Jharkhand,Office Supplies,Printer Paper,1420,5,0.05,6745.0,2149.76,Mar,3,Q1
+ORD00062,2025-03-06,CUST0030,Customer 30,South,Kerala,Office Supplies,Notebook,956,5,0.0,4780.0,1384.52,Mar,3,Q1
+ORD00275,2025-03-06,CUST0137,Customer 137,South,Karnataka,Accessories,Wallet,5693,3,0.15,14517.15,2454.05,Mar,3,Q1
+ORD00312,2025-03-07,CUST0034,Customer 34,West,Goa,Furniture,Table Lamp,2792,5,0.0,13960.0,2393.49,Mar,3,Q1
+ORD00277,2025-03-08,CUST0132,Customer 132,West,Rajasthan,Accessories,USB Cable,2096,4,0.0,8384.0,2412.22,Mar,3,Q1
+ORD00090,2025-03-08,CUST0053,Customer 53,South,Telangana,Furniture,Office Chair,4387,3,0.05,12502.95,3456.23,Mar,3,Q1
+ORD00382,2025-03-10,CUST0151,Customer 151,North,Delhi,Office Supplies,File Folder,1214,4,0.0,4856.0,1555.81,Mar,3,Q1
+ORD00303,2025-03-11,CUST0005,Customer 5,West,Rajasthan,Furniture,Sofa,1907,4,0.05,7246.6,2693.77,Mar,3,Q1
+ORD00462,2025-03-14,CUST0055,Customer 55,North,Delhi,Office Supplies,File Folder,2183,3,0.2,5239.2,1720.94,Mar,3,Q1
+ORD00178,2025-03-14,CUST0063,Customer 63,West,Gujarat,Furniture,Sofa,6404,1,0.05,6083.8,1040.45,Mar,3,Q1
+ORD00118,2025-03-14,CUST0109,Customer 109,East,West Bengal,Technology,Headphones,40090,2,0.1,72162.0,19208.3,Mar,3,Q1
+ORD00595,2025-03-15,CUST0158,Customer 158,North,Uttar Pradesh,Accessories,Watch,6109,5,0.05,29017.75,10105.59,Mar,3,Q1
+ORD00049,2025-03-17,CUST0019,Customer 19,South,Telangana,Furniture,Office Chair,15212,4,0.0,60848.0,9900.48,Mar,3,Q1
+ORD00156,2025-03-18,CUST0168,Customer 168,West,Gujarat,Furniture,Table Lamp,17085,1,0.0,17085.0,5054.59,Mar,3,Q1
+ORD00088,2025-03-19,CUST0060,Customer 60,West,Gujarat,Office Supplies,Pens,1394,5,0.0,6970.0,2254.33,Mar,3,Q1
+ORD00146,2025-03-20,CUST0125,Customer 125,West,Goa,Accessories,USB Cable,2757,5,0.0,13785.0,4167.67,Mar,3,Q1
+ORD00571,2025-03-20,CUST0151,Customer 151,South,Kerala,Accessories,Backpack,6219,2,0.0,12438.0,3752.97,Mar,3,Q1
+ORD00155,2025-03-21,CUST0041,Customer 41,South,Kerala,Accessories,Wallet,2698,4,0.2,8633.6,2985.51,Mar,3,Q1
+ORD00069,2025-03-22,CUST0052,Customer 52,North,Uttar Pradesh,Furniture,Bookshelf,10250,4,0.0,41000.0,10427.75,Mar,3,Q1
+ORD00403,2025-03-23,CUST0036,Customer 36,North,Haryana,Technology,Keyboard,53758,4,0.05,204280.4,29496.1,Mar,3,Q1
+ORD00573,2025-03-23,CUST0034,Customer 34,West,Maharashtra,Office Supplies,Stapler,1549,4,0.05,5886.2,1994.34,Mar,3,Q1
+ORD00141,2025-03-23,CUST0170,Customer 170,North,Punjab,Accessories,Backpack,7811,3,0.0,23433.0,3794.08,Mar,3,Q1
+ORD00179,2025-03-23,CUST0125,Customer 125,North,Uttar Pradesh,Technology,Laptop,37141,4,0.1,133707.6,24885.25,Mar,3,Q1
+ORD00269,2025-03-24,CUST0168,Customer 168,South,Karnataka,Accessories,Wallet,7249,2,0.2,11598.4,4052.61,Mar,3,Q1
+ORD00102,2025-03-25,CUST0154,Customer 154,West,Gujarat,Technology,Monitor,11595,2,0.1,20871.0,7039.19,Mar,3,Q1
+ORD00285,2025-03-25,CUST0127,Customer 127,West,Maharashtra,Office Supplies,Printer Paper,499,2,0.0,998.0,236.41,Mar,3,Q1
+ORD00535,2025-03-26,CUST0008,Customer 8,South,Kerala,Accessories,Power Bank,4336,2,0.0,8672.0,2242.86,Mar,3,Q1
+ORD00356,2025-03-26,CUST0070,Customer 70,South,Tamil Nadu,Furniture,Sofa,2080,1,0.2,1664.0,542.01,Mar,3,Q1
+ORD00039,2025-03-27,CUST0069,Customer 69,West,Maharashtra,Office Supplies,File Folder,2374,3,0.0,7122.0,2097.9,Mar,3,Q1
+ORD00166,2025-03-28,CUST0143,Customer 143,South,Karnataka,Technology,Monitor,58256,3,0.1,157291.2,44470.24,Mar,3,Q1
+ORD00592,2025-03-28,CUST0069,Customer 69,North,Haryana,Furniture,Table Lamp,8696,2,0.1,15652.8,5539.78,Mar,3,Q1
+ORD00038,2025-03-30,CUST0122,Customer 122,South,Tamil Nadu,Furniture,Table Lamp,17596,2,0.0,35192.0,12580.1,Mar,3,Q1
+ORD00566,2025-03-31,CUST0028,Customer 28,North,Uttar Pradesh,Office Supplies,Printer Paper,978,3,0.15,2493.9,865.5,Mar,3,Q1
+ORD00186,2025-03-31,CUST0106,Customer 106,West,Goa,Accessories,USB Cable,5789,2,0.05,10999.1,1601.31,Mar,3,Q1
+ORD00334,2025-03-31,CUST0157,Customer 157,East,West Bengal,Furniture,Table Lamp,1802,4,0.05,6847.6,2507.03,Mar,3,Q1
+ORD00463,2025-03-31,CUST0051,Customer 51,West,Goa,Accessories,Watch,6423,3,0.05,18305.55,6502.43,Mar,3,Q1
+ORD00335,2025-03-31,CUST0178,Customer 178,West,Goa,Accessories,Power Bank,3652,4,0.1,13147.2,4349.15,Mar,3,Q1
+ORD00348,2025-04-01,CUST0017,Customer 17,South,Tamil Nadu,Accessories,Backpack,4619,5,0.0,23095.0,5649.55,Apr,4,Q2
+ORD00539,2025-04-02,CUST0141,Customer 141,North,Uttar Pradesh,Office Supplies,Pens,1949,4,0.0,7796.0,2954.65,Apr,4,Q2
+ORD00409,2025-04-04,CUST0054,Customer 54,South,Telangana,Technology,Smartphone,52927,3,0.0,158781.0,37481.03,Apr,4,Q2
+ORD00343,2025-04-04,CUST0008,Customer 8,East,Bihar,Accessories,Power Bank,3462,2,0.05,6577.8,1365.55,Apr,4,Q2
+ORD00347,2025-04-04,CUST0093,Customer 93,South,Karnataka,Accessories,Wallet,4672,1,0.1,4204.8,1506.27,Apr,4,Q2
+ORD00383,2025-04-04,CUST0178,Customer 178,North,Delhi,Technology,Smartphone,28786,2,0.05,54693.4,12975.86,Apr,4,Q2
+ORD00044,2025-04-05,CUST0168,Customer 168,South,Karnataka,Accessories,USB Cable,4163,3,0.0,12489.0,4537.92,Apr,4,Q2
+ORD00227,2025-04-05,CUST0002,Customer 2,North,Uttar Pradesh,Accessories,USB Cable,6934,5,0.1,31203.0,5732.97,Apr,4,Q2
+ORD00493,2025-04-05,CUST0159,Customer 159,East,Bihar,Furniture,Table Lamp,13150,1,0.05,12492.5,2834.59,Apr,4,Q2
+ORD00367,2025-04-05,CUST0147,Customer 147,East,Bihar,Technology,Monitor,36731,3,0.15,93664.05,17411.25,Apr,4,Q2
+ORD00438,2025-04-05,CUST0134,Customer 134,East,West Bengal,Office Supplies,File Folder,1058,5,0.05,5025.5,1319.14,Apr,4,Q2
+ORD00318,2025-04-06,CUST0079,Customer 79,North,Delhi,Accessories,Wallet,5810,1,0.05,5519.5,2035.35,Apr,4,Q2
+ORD00589,2025-04-06,CUST0079,Customer 79,West,Goa,Office Supplies,Stapler,1084,4,0.1,3902.4,1065.71,Apr,4,Q2
+ORD00107,2025-04-06,CUST0051,Customer 51,West,Rajasthan,Technology,Laptop,25360,4,0.0,101440.0,36126.24,Apr,4,Q2
+ORD00477,2025-04-06,CUST0120,Customer 120,West,Goa,Technology,Smartphone,37930,3,0.15,96721.5,20206.76,Apr,4,Q2
+ORD00476,2025-04-06,CUST0004,Customer 4,North,Haryana,Accessories,Watch,3414,2,0.15,5803.8,1531.25,Apr,4,Q2
+ORD00413,2025-04-06,CUST0136,Customer 136,South,Kerala,Office Supplies,Stapler,848,5,0.0,4240.0,1576.93,Apr,4,Q2
+ORD00369,2025-04-07,CUST0126,Customer 126,North,Haryana,Technology,Keyboard,49892,3,0.0,149676.0,42089.29,Apr,4,Q2
+ORD00561,2025-04-09,CUST0103,Customer 103,East,Bihar,Technology,Smartphone,1931,2,0.1,3475.8,1014.69,Apr,4,Q2
+ORD00470,2025-04-10,CUST0063,Customer 63,North,Punjab,Accessories,USB Cable,7908,4,0.1,28468.8,6389.06,Apr,4,Q2
+ORD00001,2025-04-10,CUST0021,Customer 21,North,Haryana,Furniture,Sofa,6965,3,0.0,20895.0,5637.06,Apr,4,Q2
+ORD00376,2025-04-10,CUST0010,Customer 10,South,Telangana,Technology,Headphones,13560,1,0.1,12204.0,2928.3,Apr,4,Q2
+ORD00079,2025-04-11,CUST0111,Customer 111,West,Gujarat,Furniture,Table Lamp,8643,1,0.05,8210.85,2373.71,Apr,4,Q2
+ORD00323,2025-04-11,CUST0084,Customer 84,South,Karnataka,Accessories,Backpack,7372,3,0.1,19904.4,7333.48,Apr,4,Q2
+ORD00527,2025-04-11,CUST0134,Customer 134,East,West Bengal,Technology,Smartphone,22261,4,0.0,89044.0,25172.61,Apr,4,Q2
+ORD00344,2025-04-11,CUST0086,Customer 86,North,Haryana,Office Supplies,Notebook,2220,4,0.0,8880.0,3355.14,Apr,4,Q2
+ORD00154,2025-04-12,CUST0082,Customer 82,North,Haryana,Furniture,Sofa,9057,3,0.1,24453.9,4244.48,Apr,4,Q2
+ORD00328,2025-04-12,CUST0053,Customer 53,North,Uttar Pradesh,Office Supplies,Notebook,1147,5,0.1,5161.5,1661.73,Apr,4,Q2
+ORD00559,2025-04-13,CUST0052,Customer 52,East,West Bengal,Office Supplies,Printer Paper,278,2,0.1,500.4,78.26,Apr,4,Q2
+ORD00283,2025-04-13,CUST0109,Customer 109,West,Goa,Furniture,Table Lamp,12231,5,0.0,61155.0,11147.96,Apr,4,Q2
+ORD00024,2025-04-14,CUST0148,Customer 148,West,Rajasthan,Technology,Headphones,7495,1,0.1,6745.5,2427.07,Apr,4,Q2
+ORD00256,2025-04-14,CUST0085,Customer 85,West,Maharashtra,Technology,Keyboard,8439,1,0.05,8017.05,1285.76,Apr,4,Q2
+ORD00506,2025-04-14,CUST0044,Customer 44,East,Bihar,Technology,Keyboard,34577,5,0.0,172885.0,49015.23,Apr,4,Q2
+ORD00045,2025-04-15,CUST0081,Customer 81,North,Punjab,Furniture,Sofa,16981,2,0.0,33962.0,6266.93,Apr,4,Q2
+ORD00221,2025-04-15,CUST0178,Customer 178,East,Odisha,Accessories,Backpack,1212,1,0.0,1212.0,384.72,Apr,4,Q2
+ORD00063,2025-04-15,CUST0063,Customer 63,South,Tamil Nadu,Furniture,Office Chair,7670,3,0.05,21859.5,7973.41,Apr,4,Q2
+ORD00492,2025-04-16,CUST0068,Customer 68,South,Tamil Nadu,Technology,Headphones,61580,4,0.0,246320.0,34923.34,Apr,4,Q2
+ORD00036,2025-04-16,CUST0055,Customer 55,South,Telangana,Accessories,USB Cable,7329,4,0.0,29316.0,4318.57,Apr,4,Q2
+ORD00244,2025-04-16,CUST0014,Customer 14,North,Punjab,Technology,Keyboard,18215,2,0.0,36430.0,7203.83,Apr,4,Q2
+ORD00435,2025-04-16,CUST0009,Customer 9,East,Bihar,Technology,Smartphone,28613,5,0.0,143065.0,35574.97,Apr,4,Q2
+ORD00126,2025-04-18,CUST0153,Customer 153,West,Gujarat,Furniture,Office Chair,8264,2,0.05,15701.6,4358.2,Apr,4,Q2
+ORD00534,2025-04-21,CUST0010,Customer 10,North,Punjab,Office Supplies,Pens,2475,5,0.05,11756.25,4323.05,Apr,4,Q2
+ORD00313,2025-04-21,CUST0102,Customer 102,West,Goa,Technology,Smartphone,41323,2,0.0,82646.0,23414.47,Apr,4,Q2
+ORD00300,2025-04-21,CUST0103,Customer 103,North,Punjab,Furniture,Table Lamp,10414,1,0.05,9893.3,3428.95,Apr,4,Q2
+ORD00585,2025-04-22,CUST0126,Customer 126,East,Jharkhand,Furniture,Sofa,7268,2,0.0,14536.0,2197.6,Apr,4,Q2
+ORD00067,2025-04-22,CUST0054,Customer 54,South,Kerala,Furniture,Bookshelf,9127,5,0.0,45635.0,8668.99,Apr,4,Q2
+ORD00580,2025-04-23,CUST0056,Customer 56,North,Uttar Pradesh,Accessories,Watch,7018,5,0.0,35090.0,9525.93,Apr,4,Q2
+ORD00575,2025-04-23,CUST0022,Customer 22,South,Karnataka,Furniture,Table Lamp,15326,5,0.15,65135.5,14609.94,Apr,4,Q2
+ORD00099,2025-04-27,CUST0175,Customer 175,West,Maharashtra,Technology,Headphones,57464,5,0.0,287320.0,53819.4,Apr,4,Q2
+ORD00182,2025-04-27,CUST0003,Customer 3,West,Maharashtra,Office Supplies,Printer Paper,2212,2,0.2,3539.2,625.31,Apr,4,Q2
+ORD00517,2025-04-28,CUST0088,Customer 88,South,Karnataka,Furniture,Sofa,9492,5,0.1,42714.0,12834.51,Apr,4,Q2
+ORD00424,2025-04-28,CUST0161,Customer 161,North,Haryana,Accessories,Watch,624,3,0.1,1684.8,301.31,Apr,4,Q2
+ORD00199,2025-04-28,CUST0144,Customer 144,East,Odisha,Furniture,Table Lamp,16601,5,0.0,83005.0,12135.37,Apr,4,Q2
+ORD00072,2025-05-02,CUST0096,Customer 96,South,Telangana,Technology,Keyboard,37234,3,0.1,100531.8,34044.41,May,5,Q2
+ORD00296,2025-05-02,CUST0051,Customer 51,South,Tamil Nadu,Technology,Headphones,27617,3,0.0,82851.0,21782.83,May,5,Q2
+ORD00059,2025-05-02,CUST0016,Customer 16,South,Kerala,Office Supplies,Pens,1047,4,0.0,4188.0,1254.06,May,5,Q2
+ORD00395,2025-05-02,CUST0018,Customer 18,West,Goa,Technology,Smartphone,15117,1,0.0,15117.0,4241.71,May,5,Q2
+ORD00092,2025-05-03,CUST0033,Customer 33,West,Rajasthan,Technology,Laptop,39341,4,0.05,149495.8,29452.15,May,5,Q2
+ORD00432,2025-05-05,CUST0093,Customer 93,South,Kerala,Technology,Headphones,34829,4,0.15,118418.6,34608.67,May,5,Q2
+ORD00165,2025-05-05,CUST0164,Customer 164,East,Bihar,Office Supplies,Stapler,1877,2,0.2,3003.2,936.62,May,5,Q2
+ORD00293,2025-05-06,CUST0146,Customer 146,South,Tamil Nadu,Office Supplies,Stapler,2091,3,0.0,6273.0,2275.78,May,5,Q2
+ORD00503,2025-05-07,CUST0150,Customer 150,East,Jharkhand,Technology,Smartphone,7335,4,0.2,23472.0,4824.87,May,5,Q2
+ORD00544,2025-05-07,CUST0180,Customer 180,East,Odisha,Office Supplies,Notebook,2380,1,0.2,1904.0,316.76,May,5,Q2
+ORD00398,2025-05-08,CUST0048,Customer 48,West,Goa,Furniture,Office Chair,6252,5,0.0,31260.0,9348.94,May,5,Q2
+ORD00310,2025-05-08,CUST0143,Customer 143,East,West Bengal,Technology,Keyboard,56020,5,0.1,252090.0,49273.14,May,5,Q2
+ORD00085,2025-05-10,CUST0010,Customer 10,South,Kerala,Furniture,Office Chair,17344,2,0.2,27750.4,8398.24,May,5,Q2
+ORD00262,2025-05-11,CUST0175,Customer 175,East,Bihar,Office Supplies,Stapler,1467,4,0.0,5868.0,1871.67,May,5,Q2
+ORD00003,2025-05-11,CUST0059,Customer 59,North,Punjab,Furniture,Table Lamp,3447,3,0.05,9823.95,1414.89,May,5,Q2
+ORD00162,2025-05-11,CUST0146,Customer 146,North,Uttar Pradesh,Office Supplies,Pens,741,5,0.2,2964.0,432.89,May,5,Q2
+ORD00247,2025-05-11,CUST0142,Customer 142,South,Kerala,Furniture,Desk,6132,5,0.2,24528.0,7810.52,May,5,Q2
+ORD00578,2025-05-12,CUST0097,Customer 97,North,Uttar Pradesh,Office Supplies,File Folder,2454,1,0.0,2454.0,516.97,May,5,Q2
+ORD00267,2025-05-14,CUST0137,Customer 137,East,Odisha,Office Supplies,Stapler,1867,5,0.15,7934.75,1775.92,May,5,Q2
+ORD00261,2025-05-14,CUST0133,Customer 133,North,Uttar Pradesh,Office Supplies,Printer Paper,306,5,0.0,1530.0,472.53,May,5,Q2
+ORD00538,2025-05-14,CUST0112,Customer 112,West,Gujarat,Technology,Laptop,5117,1,0.0,5117.0,1871.87,May,5,Q2
+ORD00309,2025-05-15,CUST0019,Customer 19,West,Rajasthan,Office Supplies,Notebook,2391,2,0.15,4064.7,1257.18,May,5,Q2
+ORD00026,2025-05-15,CUST0068,Customer 68,North,Delhi,Office Supplies,File Folder,477,5,0.0,2385.0,696.53,May,5,Q2
+ORD00513,2025-05-17,CUST0042,Customer 42,East,Odisha,Furniture,Sofa,17941,3,0.05,51131.85,12244.27,May,5,Q2
+ORD00555,2025-05-17,CUST0125,Customer 125,West,Goa,Furniture,Table Lamp,17562,4,0.1,63223.2,13875.57,May,5,Q2
+ORD00387,2025-05-19,CUST0037,Customer 37,West,Rajasthan,Furniture,Table Lamp,15127,2,0.15,25715.9,7967.51,May,5,Q2
+ORD00516,2025-05-20,CUST0007,Customer 7,West,Goa,Furniture,Table Lamp,12280,4,0.0,49120.0,10392.95,May,5,Q2
+ORD00558,2025-05-21,CUST0099,Customer 99,North,Punjab,Technology,Laptop,44692,5,0.0,223460.0,73681.6,May,5,Q2
+ORD00095,2025-05-21,CUST0104,Customer 104,North,Uttar Pradesh,Office Supplies,Stapler,791,2,0.15,1344.7,461.5,May,5,Q2
+ORD00177,2025-05-22,CUST0089,Customer 89,North,Haryana,Accessories,Backpack,5159,4,0.1,18572.4,6096.17,May,5,Q2
+ORD00505,2025-05-22,CUST0104,Customer 104,East,West Bengal,Technology,Headphones,56226,4,0.0,224904.0,49565.82,May,5,Q2
+ORD00202,2025-05-23,CUST0180,Customer 180,South,Telangana,Accessories,Backpack,1975,2,0.1,3555.0,910.92,May,5,Q2
+ORD00058,2025-05-24,CUST0049,Customer 49,South,Karnataka,Office Supplies,Notebook,1629,1,0.1,1466.1,351.52,May,5,Q2
+ORD00176,2025-05-25,CUST0034,Customer 34,East,Odisha,Furniture,Sofa,16252,2,0.05,30878.8,11604.13,May,5,Q2
+ORD00466,2025-05-25,CUST0008,Customer 8,North,Punjab,Accessories,Backpack,7095,1,0.0,7095.0,2340.11,May,5,Q2
+ORD00060,2025-05-25,CUST0178,Customer 178,South,Kerala,Technology,Smartphone,34507,4,0.05,131126.6,41647.39,May,5,Q2
+ORD00502,2025-05-26,CUST0125,Customer 125,West,Goa,Technology,Keyboard,47126,5,0.0,235630.0,84456.76,May,5,Q2
+ORD00207,2025-05-26,CUST0128,Customer 128,West,Goa,Technology,Monitor,13071,4,0.0,52284.0,13516.77,May,5,Q2
+ORD00556,2025-05-26,CUST0121,Customer 121,North,Punjab,Technology,Laptop,9187,5,0.05,43638.25,10669.48,May,5,Q2
+ORD00268,2025-05-27,CUST0046,Customer 46,North,Haryana,Office Supplies,Pens,221,4,0.05,839.8,293.15,May,5,Q2
+ORD00265,2025-05-28,CUST0066,Customer 66,West,Gujarat,Office Supplies,Stapler,562,4,0.1,2023.2,687.66,May,5,Q2
+ORD00191,2025-05-29,CUST0069,Customer 69,North,Punjab,Technology,Keyboard,27360,3,0.15,69768.0,18593.59,May,5,Q2
+ORD00209,2025-05-29,CUST0056,Customer 56,West,Rajasthan,Technology,Headphones,31358,1,0.05,29790.1,10100.05,May,5,Q2
+ORD00225,2025-05-29,CUST0122,Customer 122,West,Rajasthan,Furniture,Office Chair,16690,1,0.0,16690.0,4163.09,May,5,Q2
+ORD00458,2025-05-29,CUST0132,Customer 132,East,Odisha,Office Supplies,Printer Paper,166,1,0.05,157.7,32.31,May,5,Q2
+ORD00226,2025-05-30,CUST0104,Customer 104,East,Bihar,Office Supplies,File Folder,2365,4,0.0,9460.0,2868.14,May,5,Q2
+ORD00377,2025-05-30,CUST0083,Customer 83,East,West Bengal,Technology,Smartphone,43337,1,0.0,43337.0,6641.97,May,5,Q2
+ORD00475,2025-05-31,CUST0117,Customer 117,South,Tamil Nadu,Technology,Smartphone,28556,4,0.05,108512.8,17962.92,May,5,Q2
+ORD00593,2025-05-31,CUST0067,Customer 67,South,Telangana,Office Supplies,File Folder,1958,5,0.0,9790.0,1516.12,May,5,Q2
+ORD00308,2025-06-01,CUST0042,Customer 42,East,Bihar,Office Supplies,Pens,2447,5,0.05,11623.25,2172.79,Jun,6,Q2
+ORD00600,2025-06-01,CUST0168,Customer 168,West,Gujarat,Accessories,Power Bank,3251,3,0.0,9753.0,2667.4,Jun,6,Q2
+ORD00396,2025-06-01,CUST0028,Customer 28,West,Gujarat,Furniture,Table Lamp,2994,3,0.0,8982.0,1797.71,Jun,6,Q2
+ORD00047,2025-06-01,CUST0177,Customer 177,West,Rajasthan,Technology,Laptop,18706,4,0.05,71082.8,13765.96,Jun,6,Q2
+ORD00419,2025-06-02,CUST0061,Customer 61,South,Kerala,Accessories,Watch,5910,3,0.05,16843.5,3540.92,Jun,6,Q2
+ORD00295,2025-06-04,CUST0120,Customer 120,East,Bihar,Office Supplies,File Folder,522,3,0.2,1252.8,360.54,Jun,6,Q2
+ORD00427,2025-06-04,CUST0062,Customer 62,North,Uttar Pradesh,Office Supplies,Stapler,1850,5,0.2,7400.0,1598.19,Jun,6,Q2
+ORD00421,2025-06-04,CUST0170,Customer 170,West,Maharashtra,Furniture,Desk,14932,3,0.15,38076.6,6858.37,Jun,6,Q2
+ORD00330,2025-06-05,CUST0122,Customer 122,South,Kerala,Technology,Monitor,20843,2,0.1,37517.4,11448.53,Jun,6,Q2
+ORD00319,2025-06-05,CUST0008,Customer 8,North,Uttar Pradesh,Office Supplies,Notebook,2040,5,0.15,8670.0,3122.49,Jun,6,Q2
+ORD00411,2025-06-05,CUST0166,Customer 166,North,Uttar Pradesh,Furniture,Office Chair,12926,5,0.0,64630.0,20378.95,Jun,6,Q2
+ORD00400,2025-06-05,CUST0131,Customer 131,East,Odisha,Office Supplies,Notebook,2106,2,0.0,4212.0,1590.47,Jun,6,Q2
+ORD00567,2025-06-06,CUST0112,Customer 112,East,Jharkhand,Technology,Headphones,33679,3,0.1,90933.3,13023.91,Jun,6,Q2
+ORD00091,2025-06-06,CUST0111,Customer 111,North,Punjab,Office Supplies,Printer Paper,1772,1,0.05,1683.4,278.55,Jun,6,Q2
+ORD00374,2025-06-06,CUST0024,Customer 24,North,Haryana,Furniture,Bookshelf,11525,2,0.1,20745.0,7499.83,Jun,6,Q2
+ORD00175,2025-06-06,CUST0124,Customer 124,North,Uttar Pradesh,Technology,Monitor,5670,2,0.0,11340.0,2320.17,Jun,6,Q2
+ORD00203,2025-06-07,CUST0049,Customer 49,South,Kerala,Accessories,Power Bank,4387,2,0.1,7896.6,1722.78,Jun,6,Q2
+ORD00129,2025-06-07,CUST0133,Customer 133,South,Kerala,Furniture,Office Chair,11516,1,0.0,11516.0,3395.96,Jun,6,Q2
+ORD00248,2025-06-10,CUST0115,Customer 115,West,Rajasthan,Office Supplies,File Folder,1960,5,0.1,8820.0,2611.76,Jun,6,Q2
+ORD00235,2025-06-11,CUST0080,Customer 80,South,Telangana,Office Supplies,Stapler,1158,4,0.05,4400.4,1034.81,Jun,6,Q2
+ORD00298,2025-06-11,CUST0022,Customer 22,North,Haryana,Technology,Keyboard,46323,5,0.0,231615.0,57234.21,Jun,6,Q2
+ORD00105,2025-06-11,CUST0166,Customer 166,South,Tamil Nadu,Furniture,Table Lamp,13042,3,0.05,37169.7,11709.25,Jun,6,Q2
+ORD00416,2025-06-12,CUST0091,Customer 91,South,Telangana,Accessories,USB Cable,6873,5,0.15,29210.25,4106.06,Jun,6,Q2
+ORD00452,2025-06-13,CUST0115,Customer 115,West,Maharashtra,Technology,Smartphone,57763,4,0.05,219499.4,35316.7,Jun,6,Q2
+ORD00046,2025-06-13,CUST0075,Customer 75,West,Maharashtra,Furniture,Desk,1112,4,0.05,4225.6,624.46,Jun,6,Q2
+ORD00168,2025-06-13,CUST0123,Customer 123,North,Delhi,Furniture,Desk,2813,3,0.1,7595.1,2293.37,Jun,6,Q2
+ORD00379,2025-06-15,CUST0129,Customer 129,West,Rajasthan,Office Supplies,Notebook,2173,2,0.1,3911.4,1284.82,Jun,6,Q2
+ORD00362,2025-06-16,CUST0088,Customer 88,East,Odisha,Furniture,Table Lamp,7963,3,0.1,21500.1,7540.36,Jun,6,Q2
+ORD00521,2025-06-18,CUST0087,Customer 87,South,Kerala,Office Supplies,Stapler,2344,2,0.1,4219.2,1466.23,Jun,6,Q2
+ORD00139,2025-06-18,CUST0033,Customer 33,West,Maharashtra,Furniture,Desk,8014,4,0.15,27247.6,4682.48,Jun,6,Q2
+ORD00189,2025-06-19,CUST0026,Customer 26,East,West Bengal,Accessories,Power Bank,4866,2,0.0,9732.0,2855.51,Jun,6,Q2
+ORD00034,2025-06-19,CUST0125,Customer 125,South,Telangana,Technology,Headphones,23877,2,0.15,40590.9,12986.64,Jun,6,Q2
+ORD00381,2025-06-19,CUST0147,Customer 147,West,Gujarat,Office Supplies,Pens,1351,4,0.1,4863.6,1103.82,Jun,6,Q2
+ORD00568,2025-06-21,CUST0104,Customer 104,West,Rajasthan,Office Supplies,Stapler,1622,3,0.2,3892.8,1275.86,Jun,6,Q2
+ORD00302,2025-06-22,CUST0118,Customer 118,South,Kerala,Technology,Monitor,54082,3,0.15,137909.1,28503.83,Jun,6,Q2
+ORD00337,2025-06-23,CUST0049,Customer 49,West,Maharashtra,Accessories,USB Cable,6957,4,0.05,26436.6,9661.23,Jun,6,Q2
+ORD00565,2025-06-23,CUST0152,Customer 152,North,Uttar Pradesh,Accessories,Watch,1163,5,0.0,5815.0,2134.66,Jun,6,Q2
+ORD00170,2025-06-24,CUST0001,Customer 1,West,Goa,Furniture,Table Lamp,11252,4,0.05,42757.6,10033.96,Jun,6,Q2
+ORD00104,2025-06-24,CUST0029,Customer 29,South,Tamil Nadu,Furniture,Bookshelf,10392,3,0.0,31176.0,6044.2,Jun,6,Q2
+ORD00145,2025-06-24,CUST0022,Customer 22,West,Maharashtra,Office Supplies,Notebook,553,3,0.15,1410.15,200.76,Jun,6,Q2
+ORD00415,2025-06-25,CUST0008,Customer 8,East,Bihar,Office Supplies,File Folder,2458,1,0.05,2335.1,849.65,Jun,6,Q2
+ORD00134,2025-06-27,CUST0177,Customer 177,North,Punjab,Accessories,Power Bank,5890,3,0.05,16786.5,4263.64,Jun,6,Q2
+ORD00043,2025-06-28,CUST0084,Customer 84,East,Jharkhand,Office Supplies,Notebook,1767,4,0.05,6714.6,1514.89,Jun,6,Q2
+ORD00368,2025-06-28,CUST0057,Customer 57,East,Odisha,Technology,Smartphone,21652,3,0.15,55212.6,7969.53,Jun,6,Q2
+ORD00041,2025-06-29,CUST0023,Customer 23,South,Karnataka,Furniture,Office Chair,6581,2,0.15,11187.7,1870.55,Jun,6,Q2
+ORD00029,2025-06-30,CUST0099,Customer 99,North,Uttar Pradesh,Accessories,Power Bank,6114,5,0.15,25984.5,7203.83,Jun,6,Q2
+ORD00329,2025-07-01,CUST0163,Customer 163,North,Uttar Pradesh,Technology,Laptop,25672,3,0.05,73165.2,18479.7,Jul,7,Q3
+ORD00465,2025-07-01,CUST0022,Customer 22,North,Delhi,Furniture,Table Lamp,11050,1,0.0,11050.0,2667.12,Jul,7,Q3
+ORD00497,2025-07-01,CUST0027,Customer 27,East,Jharkhand,Technology,Headphones,16416,2,0.1,29548.8,11190.21,Jul,7,Q3
+ORD00560,2025-07-02,CUST0179,Customer 179,East,Bihar,Accessories,Power Bank,2494,1,0.0,2494.0,751.06,Jul,7,Q3
+ORD00223,2025-07-02,CUST0032,Customer 32,East,Jharkhand,Office Supplies,File Folder,1329,3,0.0,3987.0,1409.03,Jul,7,Q3
+ORD00237,2025-07-02,CUST0019,Customer 19,West,Goa,Accessories,Power Bank,681,5,0.0,3405.0,1025.7,Jul,7,Q3
+ORD00464,2025-07-03,CUST0122,Customer 122,North,Haryana,Office Supplies,File Folder,685,1,0.0,685.0,131.73,Jul,7,Q3
+ORD00451,2025-07-03,CUST0083,Customer 83,South,Kerala,Technology,Headphones,43030,4,0.05,163514.0,36494.36,Jul,7,Q3
+ORD00138,2025-07-05,CUST0081,Customer 81,East,West Bengal,Technology,Monitor,39201,5,0.05,186204.75,44283.61,Jul,7,Q3
+ORD00483,2025-07-06,CUST0075,Customer 75,South,Tamil Nadu,Technology,Laptop,26559,1,0.0,26559.0,4623.68,Jul,7,Q3
+ORD00437,2025-07-06,CUST0071,Customer 71,South,Telangana,Office Supplies,Stapler,306,2,0.0,612.0,129.96,Jul,7,Q3
+ORD00522,2025-07-07,CUST0050,Customer 50,West,Maharashtra,Technology,Laptop,14229,3,0.0,42687.0,14921.76,Jul,7,Q3
+ORD00579,2025-07-07,CUST0032,Customer 32,North,Punjab,Furniture,Desk,11100,4,0.0,44400.0,8886.62,Jul,7,Q3
+ORD00007,2025-07-07,CUST0082,Customer 82,North,Haryana,Accessories,USB Cable,1128,5,0.05,5358.0,794.8,Jul,7,Q3
+ORD00115,2025-07-09,CUST0053,Customer 53,West,Goa,Technology,Headphones,9846,2,0.15,16738.2,4678.24,Jul,7,Q3
+ORD00214,2025-07-10,CUST0160,Customer 160,East,West Bengal,Office Supplies,File Folder,243,1,0.0,243.0,60.38,Jul,7,Q3
+ORD00557,2025-07-10,CUST0109,Customer 109,East,Bihar,Accessories,Power Bank,7747,5,0.0,38735.0,6540.77,Jul,7,Q3
+ORD00361,2025-07-10,CUST0153,Customer 153,East,Odisha,Technology,Keyboard,56106,5,0.05,266503.5,51335.06,Jul,7,Q3
+ORD00241,2025-07-11,CUST0069,Customer 69,East,Bihar,Accessories,Watch,5718,5,0.05,27160.5,7484.26,Jul,7,Q3
+ORD00366,2025-07-12,CUST0083,Customer 83,West,Maharashtra,Accessories,USB Cable,5247,1,0.05,4984.65,1247.28,Jul,7,Q3
+ORD00501,2025-07-13,CUST0164,Customer 164,South,Kerala,Furniture,Desk,12371,3,0.1,33401.7,6235.22,Jul,7,Q3
+ORD00025,2025-07-13,CUST0099,Customer 99,South,Karnataka,Office Supplies,Pens,2280,5,0.0,11400.0,3496.52,Jul,7,Q3
+ORD00353,2025-07-14,CUST0156,Customer 156,West,Gujarat,Technology,Headphones,45725,1,0.05,43438.75,13428.74,Jul,7,Q3
+ORD00035,2025-07-15,CUST0008,Customer 8,North,Delhi,Accessories,Wallet,3374,4,0.0,13496.0,3110.91,Jul,7,Q3
+ORD00245,2025-07-15,CUST0107,Customer 107,North,Haryana,Accessories,USB Cable,2893,2,0.15,4918.1,1704.52,Jul,7,Q3
+ORD00581,2025-07-15,CUST0146,Customer 146,South,Telangana,Furniture,Sofa,1618,3,0.0,4854.0,1221.31,Jul,7,Q3
+ORD00260,2025-07-15,CUST0059,Customer 59,North,Uttar Pradesh,Office Supplies,Printer Paper,326,3,0.1,880.2,314.82,Jul,7,Q3
+ORD00418,2025-07-16,CUST0160,Customer 160,West,Goa,Technology,Smartphone,32126,3,0.0,96378.0,14917.45,Jul,7,Q3
+ORD00583,2025-07-17,CUST0009,Customer 9,West,Gujarat,Accessories,Power Bank,6132,4,0.2,19622.4,6882.54,Jul,7,Q3
+ORD00238,2025-07-17,CUST0047,Customer 47,North,Haryana,Technology,Keyboard,47226,1,0.15,40142.1,9063.46,Jul,7,Q3
+ORD00172,2025-07-17,CUST0037,Customer 37,East,West Bengal,Technology,Smartphone,26819,2,0.0,53638.0,18810.5,Jul,7,Q3
+ORD00246,2025-07-18,CUST0143,Customer 143,South,Telangana,Technology,Headphones,15489,3,0.2,37173.6,9128.34,Jul,7,Q3
+ORD00180,2025-07-18,CUST0088,Customer 88,East,West Bengal,Accessories,Wallet,1071,1,0.0,1071.0,244.99,Jul,7,Q3
+ORD00054,2025-07-21,CUST0159,Customer 159,South,Kerala,Accessories,USB Cable,2060,5,0.05,9785.0,2062.48,Jul,7,Q3
+ORD00461,2025-07-22,CUST0040,Customer 40,West,Rajasthan,Technology,Headphones,57761,2,0.0,115522.0,43598.62,Jul,7,Q3
+ORD00184,2025-07-22,CUST0080,Customer 80,East,Odisha,Accessories,Power Bank,2088,5,0.15,8874.0,2853.56,Jul,7,Q3
+ORD00349,2025-07-22,CUST0154,Customer 154,North,Uttar Pradesh,Furniture,Office Chair,14888,4,0.0,59552.0,15398.37,Jul,7,Q3
+ORD00158,2025-07-23,CUST0009,Customer 9,West,Gujarat,Accessories,Power Bank,7167,1,0.0,7167.0,1792.39,Jul,7,Q3
+ORD00442,2025-07-24,CUST0132,Customer 132,North,Uttar Pradesh,Furniture,Table Lamp,16616,2,0.1,29908.8,6862.31,Jul,7,Q3
+ORD00358,2025-07-25,CUST0030,Customer 30,South,Tamil Nadu,Furniture,Sofa,3449,5,0.1,15520.5,2855.35,Jul,7,Q3
+ORD00204,2025-07-25,CUST0014,Customer 14,West,Goa,Office Supplies,Pens,152,5,0.0,760.0,260.75,Jul,7,Q3
+ORD00436,2025-07-27,CUST0040,Customer 40,East,West Bengal,Technology,Monitor,32579,2,0.0,65158.0,17106.96,Jul,7,Q3
+ORD00454,2025-07-27,CUST0048,Customer 48,East,Bihar,Technology,Headphones,33751,1,0.15,28688.35,9622.76,Jul,7,Q3
+ORD00159,2025-07-27,CUST0062,Customer 62,West,Goa,Accessories,Watch,4456,3,0.05,12699.6,2811.73,Jul,7,Q3
+ORD00447,2025-07-27,CUST0052,Customer 52,North,Delhi,Furniture,Table Lamp,3396,1,0.1,3056.4,608.54,Jul,7,Q3
+ORD00423,2025-07-28,CUST0064,Customer 64,West,Maharashtra,Office Supplies,Printer Paper,2320,4,0.0,9280.0,2235.23,Jul,7,Q3
+ORD00426,2025-07-28,CUST0168,Customer 168,West,Goa,Accessories,Watch,4132,4,0.0,16528.0,4601.39,Jul,7,Q3
+ORD00569,2025-07-28,CUST0161,Customer 161,East,West Bengal,Technology,Headphones,10081,4,0.05,38307.8,11726.41,Jul,7,Q3
+ORD00552,2025-07-30,CUST0126,Customer 126,North,Delhi,Accessories,USB Cable,4836,2,0.15,8221.2,1946.23,Jul,7,Q3
+ORD00511,2025-07-31,CUST0131,Customer 131,West,Maharashtra,Office Supplies,File Folder,2315,3,0.1,6250.5,2195.83,Jul,7,Q3
+ORD00074,2025-08-02,CUST0045,Customer 45,North,Uttar Pradesh,Technology,Smartphone,17482,1,0.0,17482.0,4624.43,Aug,8,Q3
+ORD00252,2025-08-02,CUST0063,Customer 63,South,Telangana,Office Supplies,Stapler,1039,5,0.0,5195.0,1562.39,Aug,8,Q3
+ORD00360,2025-08-02,CUST0162,Customer 162,West,Rajasthan,Technology,Smartphone,32686,1,0.0,32686.0,7490.84,Aug,8,Q3
+ORD00577,2025-08-02,CUST0170,Customer 170,North,Haryana,Technology,Headphones,56305,1,0.05,53489.75,13740.71,Aug,8,Q3
+ORD00217,2025-08-02,CUST0021,Customer 21,East,Jharkhand,Technology,Smartphone,57803,3,0.05,164738.55,47325.47,Aug,8,Q3
+ORD00097,2025-08-02,CUST0092,Customer 92,West,Gujarat,Office Supplies,File Folder,2008,3,0.1,5421.6,844.42,Aug,8,Q3
+ORD00121,2025-08-03,CUST0080,Customer 80,North,Uttar Pradesh,Accessories,Backpack,465,3,0.1,1255.5,234.06,Aug,8,Q3
+ORD00111,2025-08-03,CUST0086,Customer 86,South,Kerala,Furniture,Sofa,13580,2,0.05,25802.0,3702.89,Aug,8,Q3
+ORD00103,2025-08-03,CUST0063,Customer 63,South,Kerala,Furniture,Table Lamp,10616,1,0.0,10616.0,3244.41,Aug,8,Q3
+ORD00430,2025-08-04,CUST0108,Customer 108,West,Rajasthan,Technology,Headphones,52969,2,0.05,100641.1,36909.78,Aug,8,Q3
+ORD00173,2025-08-04,CUST0179,Customer 179,South,Karnataka,Technology,Headphones,35197,4,0.0,140788.0,20162.08,Aug,8,Q3
+ORD00304,2025-08-04,CUST0052,Customer 52,South,Kerala,Technology,Headphones,30735,2,0.05,58396.5,14868.53,Aug,8,Q3
+ORD00562,2025-08-04,CUST0059,Customer 59,West,Rajasthan,Furniture,Table Lamp,7799,3,0.05,22227.15,3530.49,Aug,8,Q3
+ORD00220,2025-08-08,CUST0135,Customer 135,South,Telangana,Furniture,Table Lamp,9664,2,0.0,19328.0,6963.47,Aug,8,Q3
+ORD00439,2025-08-08,CUST0077,Customer 77,West,Maharashtra,Furniture,Table Lamp,2395,3,0.0,7185.0,1745.88,Aug,8,Q3
+ORD00352,2025-08-09,CUST0023,Customer 23,South,Kerala,Accessories,Power Bank,1123,4,0.05,4267.4,1411.98,Aug,8,Q3
+ORD00215,2025-08-09,CUST0034,Customer 34,South,Kerala,Furniture,Sofa,5419,4,0.1,19508.4,3617.55,Aug,8,Q3
+ORD00110,2025-08-10,CUST0119,Customer 119,North,Uttar Pradesh,Office Supplies,Pens,475,4,0.1,1710.0,481.78,Aug,8,Q3
+ORD00272,2025-08-10,CUST0142,Customer 142,South,Karnataka,Technology,Laptop,63866,5,0.0,319330.0,98359.84,Aug,8,Q3
+ORD00232,2025-08-11,CUST0162,Customer 162,North,Delhi,Technology,Laptop,41572,1,0.1,37414.8,7426.71,Aug,8,Q3
+ORD00339,2025-08-11,CUST0134,Customer 134,East,Bihar,Technology,Monitor,45805,2,0.05,87029.5,29305.1,Aug,8,Q3
+ORD00594,2025-08-12,CUST0043,Customer 43,West,Gujarat,Office Supplies,Printer Paper,2006,1,0.0,2006.0,611.25,Aug,8,Q3
+ORD00306,2025-08-13,CUST0073,Customer 73,South,Telangana,Furniture,Sofa,2563,4,0.0,10252.0,2320.56,Aug,8,Q3
+ORD00338,2025-08-14,CUST0052,Customer 52,East,Jharkhand,Technology,Laptop,48664,3,0.0,145992.0,40913.66,Aug,8,Q3
+ORD00233,2025-08-15,CUST0111,Customer 111,East,Jharkhand,Technology,Headphones,10796,4,0.1,38865.6,6502.72,Aug,8,Q3
+ORD00057,2025-08-15,CUST0080,Customer 80,North,Delhi,Accessories,Power Bank,3183,5,0.2,12732.0,4612.66,Aug,8,Q3
+ORD00327,2025-08-15,CUST0149,Customer 149,East,Jharkhand,Office Supplies,Stapler,619,1,0.15,526.15,163.64,Aug,8,Q3
+ORD00119,2025-08-17,CUST0171,Customer 171,South,Karnataka,Technology,Laptop,19223,2,0.05,36523.7,13213.4,Aug,8,Q3
+ORD00386,2025-08-18,CUST0085,Customer 85,West,Goa,Accessories,Power Bank,3067,5,0.15,13034.75,2957.47,Aug,8,Q3
+ORD00167,2025-08-19,CUST0166,Customer 166,North,Delhi,Office Supplies,Printer Paper,632,4,0.05,2401.6,570.86,Aug,8,Q3
+ORD00448,2025-08-20,CUST0136,Customer 136,West,Gujarat,Technology,Keyboard,58615,3,0.0,175845.0,50794.52,Aug,8,Q3
+ORD00515,2025-08-20,CUST0116,Customer 116,West,Gujarat,Furniture,Bookshelf,5537,1,0.1,4983.3,819.73,Aug,8,Q3
+ORD00414,2025-08-20,CUST0178,Customer 178,West,Gujarat,Technology,Monitor,21343,1,0.15,18141.55,3026.95,Aug,8,Q3
+ORD00276,2025-08-20,CUST0047,Customer 47,East,Bihar,Technology,Keyboard,50878,1,0.0,50878.0,17321.01,Aug,8,Q3
+ORD00078,2025-08-21,CUST0145,Customer 145,West,Maharashtra,Technology,Smartphone,4796,4,0.05,18224.8,5372.21,Aug,8,Q3
+ORD00331,2025-08-21,CUST0027,Customer 27,South,Tamil Nadu,Technology,Laptop,33445,5,0.0,167225.0,48191.02,Aug,8,Q3
+ORD00051,2025-08-23,CUST0042,Customer 42,North,Delhi,Office Supplies,Notebook,1289,2,0.05,2449.1,408.88,Aug,8,Q3
+ORD00140,2025-08-23,CUST0100,Customer 100,West,Gujarat,Technology,Monitor,21870,3,0.1,59049.0,20190.91,Aug,8,Q3
+ORD00152,2025-08-24,CUST0131,Customer 131,East,Bihar,Technology,Monitor,16451,1,0.0,16451.0,3889.04,Aug,8,Q3
+ORD00012,2025-08-25,CUST0052,Customer 52,North,Punjab,Furniture,Bookshelf,13083,4,0.15,44482.2,14241.86,Aug,8,Q3
+ORD00455,2025-08-25,CUST0144,Customer 144,North,Punjab,Furniture,Table Lamp,17267,4,0.0,69068.0,20586.27,Aug,8,Q3
+ORD00279,2025-08-25,CUST0093,Customer 93,North,Delhi,Technology,Headphones,43804,1,0.1,39423.6,10536.41,Aug,8,Q3
+ORD00357,2025-08-27,CUST0047,Customer 47,East,Bihar,Technology,Headphones,11379,4,0.0,45516.0,9302.84,Aug,8,Q3
+ORD00117,2025-08-27,CUST0054,Customer 54,West,Rajasthan,Furniture,Table Lamp,3411,5,0.05,16202.25,5107.29,Aug,8,Q3
+ORD00305,2025-08-27,CUST0179,Customer 179,South,Karnataka,Furniture,Bookshelf,16009,3,0.05,45625.65,8276.29,Aug,8,Q3
+ORD00128,2025-08-27,CUST0062,Customer 62,West,Maharashtra,Technology,Monitor,9636,4,0.1,34689.6,5908.25,Aug,8,Q3
+ORD00019,2025-08-28,CUST0038,Customer 38,South,Karnataka,Office Supplies,Pens,2407,5,0.1,10831.5,2469.07,Aug,8,Q3
+ORD00187,2025-08-29,CUST0074,Customer 74,North,Haryana,Technology,Headphones,30934,5,0.0,154670.0,47813.63,Aug,8,Q3
+ORD00213,2025-08-30,CUST0120,Customer 120,West,Gujarat,Furniture,Sofa,6242,5,0.0,31210.0,11769.01,Aug,8,Q3
+ORD00494,2025-09-02,CUST0130,Customer 130,South,Tamil Nadu,Furniture,Desk,3063,1,0.05,2909.85,655.4,Sep,9,Q3
+ORD00258,2025-09-03,CUST0008,Customer 8,West,Rajasthan,Accessories,Backpack,862,4,0.15,2930.8,893.43,Sep,9,Q3
+ORD00528,2025-09-03,CUST0033,Customer 33,North,Uttar Pradesh,Furniture,Sofa,6789,5,0.1,30550.5,7078.44,Sep,9,Q3
+ORD00484,2025-09-03,CUST0048,Customer 48,West,Rajasthan,Office Supplies,Notebook,2425,4,0.05,9215.0,2249.46,Sep,9,Q3
+ORD00112,2025-09-03,CUST0014,Customer 14,South,Karnataka,Office Supplies,Notebook,600,2,0.1,1080.0,343.56,Sep,9,Q3
+ORD00394,2025-09-04,CUST0087,Customer 87,North,Delhi,Technology,Laptop,36668,4,0.0,146672.0,51597.4,Sep,9,Q3
+ORD00018,2025-09-04,CUST0130,Customer 130,West,Gujarat,Technology,Laptop,22756,4,0.05,86472.8,21385.21,Sep,9,Q3
+ORD00346,2025-09-04,CUST0141,Customer 141,South,Kerala,Furniture,Office Chair,1896,2,0.15,3223.2,1105.84,Sep,9,Q3
+ORD00478,2025-09-04,CUST0133,Customer 133,North,Punjab,Accessories,USB Cable,2713,3,0.15,6918.15,1964.4,Sep,9,Q3
+ORD00066,2025-09-07,CUST0032,Customer 32,North,Delhi,Technology,Keyboard,27857,4,0.0,111428.0,41749.36,Sep,9,Q3
+ORD00164,2025-09-07,CUST0020,Customer 20,West,Gujarat,Furniture,Table Lamp,1655,2,0.15,2813.5,678.39,Sep,9,Q3
+ORD00270,2025-09-08,CUST0028,Customer 28,West,Maharashtra,Accessories,Wallet,5325,5,0.2,21300.0,4379.26,Sep,9,Q3
+ORD00171,2025-09-08,CUST0044,Customer 44,West,Goa,Office Supplies,File Folder,1927,4,0.15,6551.8,1612.05,Sep,9,Q3
+ORD00523,2025-09-10,CUST0004,Customer 4,West,Gujarat,Technology,Laptop,58032,2,0.15,98654.4,23827.45,Sep,9,Q3
+ORD00075,2025-09-10,CUST0081,Customer 81,East,West Bengal,Technology,Headphones,30921,4,0.1,111315.6,22309.61,Sep,9,Q3
+ORD00570,2025-09-10,CUST0116,Customer 116,East,Odisha,Furniture,Sofa,6265,3,0.15,15975.75,3498.0,Sep,9,Q3
+ORD00192,2025-09-11,CUST0160,Customer 160,West,Goa,Technology,Monitor,27322,2,0.0,54644.0,12476.11,Sep,9,Q3
+ORD00441,2025-09-11,CUST0069,Customer 69,West,Maharashtra,Technology,Laptop,58221,4,0.1,209595.6,68554.31,Sep,9,Q3
+ORD00106,2025-09-12,CUST0093,Customer 93,East,Odisha,Furniture,Table Lamp,11971,1,0.05,11372.45,3628.57,Sep,9,Q3
+ORD00405,2025-09-13,CUST0075,Customer 75,South,Kerala,Office Supplies,Stapler,2223,3,0.05,6335.55,1143.39,Sep,9,Q3
+ORD00350,2025-09-13,CUST0022,Customer 22,North,Delhi,Office Supplies,File Folder,2481,5,0.0,12405.0,3429.59,Sep,9,Q3
+ORD00440,2025-09-13,CUST0150,Customer 150,North,Delhi,Technology,Headphones,8055,1,0.1,7249.5,2314.97,Sep,9,Q3
+ORD00061,2025-09-13,CUST0157,Customer 157,East,Jharkhand,Technology,Monitor,28732,3,0.15,73266.6,11140.04,Sep,9,Q3
+ORD00149,2025-09-14,CUST0101,Customer 101,West,Rajasthan,Accessories,USB Cable,4276,4,0.05,16248.8,5105.18,Sep,9,Q3
+ORD00526,2025-09-14,CUST0036,Customer 36,West,Goa,Technology,Headphones,31425,2,0.0,62850.0,9690.76,Sep,9,Q3
+ORD00222,2025-09-15,CUST0114,Customer 114,South,Telangana,Office Supplies,Printer Paper,1881,5,0.0,9405.0,2503.23,Sep,9,Q3
+ORD00201,2025-09-15,CUST0036,Customer 36,West,Gujarat,Furniture,Table Lamp,6482,2,0.0,12964.0,3741.17,Sep,9,Q3
+ORD00133,2025-09-16,CUST0107,Customer 107,South,Tamil Nadu,Technology,Headphones,62865,1,0.0,62865.0,21075.79,Sep,9,Q3
+ORD00064,2025-09-16,CUST0006,Customer 6,North,Punjab,Furniture,Office Chair,13463,1,0.05,12789.85,2558.24,Sep,9,Q3
+ORD00473,2025-09-16,CUST0173,Customer 173,East,Jharkhand,Furniture,Table Lamp,15893,4,0.05,60393.4,12656.79,Sep,9,Q3
+ORD00550,2025-09-16,CUST0038,Customer 38,South,Karnataka,Technology,Laptop,2101,5,0.0,10505.0,3727.99,Sep,9,Q3
+ORD00093,2025-09-18,CUST0109,Customer 109,North,Haryana,Office Supplies,File Folder,2343,4,0.05,8903.4,1679.62,Sep,9,Q3
+ORD00070,2025-09-19,CUST0074,Customer 74,South,Karnataka,Accessories,USB Cable,3082,4,0.0,12328.0,4548.95,Sep,9,Q3
+ORD00278,2025-09-19,CUST0105,Customer 105,North,Punjab,Office Supplies,Printer Paper,1872,1,0.0,1872.0,693.49,Sep,9,Q3
+ORD00254,2025-09-19,CUST0131,Customer 131,North,Uttar Pradesh,Office Supplies,Printer Paper,2071,4,0.05,7869.8,2050.28,Sep,9,Q3
+ORD00428,2025-09-21,CUST0037,Customer 37,East,Jharkhand,Office Supplies,Notebook,1337,1,0.1,1203.3,176.15,Sep,9,Q3
+ORD00407,2025-09-22,CUST0058,Customer 58,South,Kerala,Office Supplies,File Folder,1314,4,0.1,4730.4,1604.69,Sep,9,Q3
+ORD00532,2025-09-22,CUST0095,Customer 95,South,Kerala,Furniture,Sofa,6498,4,0.05,24692.4,9298.18,Sep,9,Q3
+ORD00208,2025-09-23,CUST0060,Customer 60,North,Uttar Pradesh,Technology,Monitor,28486,3,0.05,81185.1,19852.53,Sep,9,Q3
+ORD00373,2025-09-23,CUST0169,Customer 169,West,Gujarat,Accessories,Backpack,6314,3,0.05,17994.9,6518.29,Sep,9,Q3
+ORD00181,2025-09-24,CUST0161,Customer 161,South,Karnataka,Furniture,Bookshelf,13292,1,0.05,12627.4,4753.96,Sep,9,Q3
+ORD00467,2025-09-26,CUST0014,Customer 14,East,Bihar,Accessories,Power Bank,1512,5,0.05,7182.0,1415.92,Sep,9,Q3
+ORD00445,2025-09-26,CUST0103,Customer 103,South,Tamil Nadu,Office Supplies,Printer Paper,92,2,0.05,174.8,31.71,Sep,9,Q3
+ORD00365,2025-09-27,CUST0043,Customer 43,South,Telangana,Furniture,Table Lamp,2607,3,0.0,7821.0,1651.11,Sep,9,Q3
+ORD00364,2025-09-28,CUST0112,Customer 112,West,Goa,Technology,Laptop,1374,5,0.15,5839.5,1523.51,Sep,9,Q3
+ORD00533,2025-09-28,CUST0053,Customer 53,West,Gujarat,Technology,Monitor,42639,3,0.0,127917.0,28146.18,Sep,9,Q3
+ORD00380,2025-09-28,CUST0163,Customer 163,West,Gujarat,Technology,Smartphone,52131,3,0.0,156393.0,29132.04,Sep,9,Q3
+ORD00359,2025-09-29,CUST0039,Customer 39,East,Jharkhand,Technology,Headphones,62143,5,0.05,295179.25,101569.9,Sep,9,Q3
+ORD00200,2025-09-29,CUST0149,Customer 149,North,Uttar Pradesh,Accessories,USB Cable,5453,2,0.1,9815.4,1692.91,Sep,9,Q3
+ORD00444,2025-09-29,CUST0013,Customer 13,North,Punjab,Technology,Headphones,25686,5,0.05,122008.5,24092.02,Sep,9,Q3
+ORD00031,2025-09-30,CUST0024,Customer 24,East,Bihar,Furniture,Desk,13613,2,0.0,27226.0,8416.38,Sep,9,Q3
+ORD00342,2025-09-30,CUST0118,Customer 118,North,Uttar Pradesh,Furniture,Bookshelf,1319,3,0.1,3561.3,1049.84,Sep,9,Q3
+ORD00124,2025-09-30,CUST0116,Customer 116,South,Tamil Nadu,Accessories,Power Bank,1184,3,0.0,3552.0,643.13,Sep,9,Q3
+ORD00588,2025-09-30,CUST0080,Customer 80,South,Tamil Nadu,Technology,Monitor,16523,1,0.15,14044.55,3643.27,Sep,9,Q3
+ORD00234,2025-09-30,CUST0149,Customer 149,North,Punjab,Technology,Monitor,15737,4,0.0,62948.0,18063.45,Sep,9,Q3
+ORD00529,2025-10-01,CUST0117,Customer 117,South,Tamil Nadu,Technology,Monitor,26046,2,0.1,46882.8,13529.04,Oct,10,Q4
+ORD00083,2025-10-02,CUST0173,Customer 173,West,Rajasthan,Accessories,Wallet,7717,5,0.0,38585.0,11664.9,Oct,10,Q4
+ORD00500,2025-10-03,CUST0168,Customer 168,West,Goa,Furniture,Desk,13188,2,0.0,26376.0,8385.93,Oct,10,Q4
+ORD00281,2025-10-04,CUST0009,Customer 9,South,Tamil Nadu,Furniture,Desk,6163,5,0.0,30815.0,5658.57,Oct,10,Q4
+ORD00080,2025-10-04,CUST0059,Customer 59,West,Rajasthan,Furniture,Desk,17960,5,0.15,76330.0,28867.38,Oct,10,Q4
+ORD00345,2025-10-05,CUST0170,Customer 170,North,Punjab,Furniture,Table Lamp,5667,2,0.05,10767.3,2002.87,Oct,10,Q4
+ORD00597,2025-10-05,CUST0127,Customer 127,East,Bihar,Technology,Headphones,23841,5,0.0,119205.0,25732.92,Oct,10,Q4
+ORD00433,2025-10-05,CUST0004,Customer 4,North,Uttar Pradesh,Technology,Keyboard,45454,2,0.0,90908.0,15679.98,Oct,10,Q4
+ORD00443,2025-10-06,CUST0017,Customer 17,South,Telangana,Technology,Keyboard,17479,2,0.0,34958.0,5326.18,Oct,10,Q4
+ORD00037,2025-10-06,CUST0092,Customer 92,South,Telangana,Technology,Laptop,39145,2,0.0,78290.0,11662.42,Oct,10,Q4
+ORD00193,2025-10-07,CUST0067,Customer 67,West,Gujarat,Technology,Headphones,60121,5,0.1,270544.5,57846.56,Oct,10,Q4
+ORD00030,2025-10-08,CUST0160,Customer 160,East,Odisha,Furniture,Table Lamp,6802,1,0.0,6802.0,2308.07,Oct,10,Q4
+ORD00457,2025-10-09,CUST0113,Customer 113,North,Punjab,Technology,Monitor,50622,3,0.0,151866.0,33525.08,Oct,10,Q4
+ORD00390,2025-10-10,CUST0083,Customer 83,East,Jharkhand,Office Supplies,Pens,882,4,0.0,3528.0,1078.32,Oct,10,Q4
+ORD00052,2025-10-10,CUST0145,Customer 145,West,Gujarat,Office Supplies,Stapler,1622,5,0.0,8110.0,2309.76,Oct,10,Q4
+ORD00385,2025-10-11,CUST0073,Customer 73,South,Telangana,Office Supplies,Pens,469,3,0.05,1336.65,421.68,Oct,10,Q4
+ORD00596,2025-10-11,CUST0056,Customer 56,West,Goa,Accessories,Watch,969,1,0.05,920.55,182.05,Oct,10,Q4
+ORD00289,2025-10-11,CUST0049,Customer 49,East,Bihar,Technology,Smartphone,10542,1,0.1,9487.8,2120.05,Oct,10,Q4
+ORD00253,2025-10-11,CUST0092,Customer 92,West,Goa,Technology,Monitor,1981,3,0.15,5051.55,1240.44,Oct,10,Q4
+ORD00297,2025-10-12,CUST0087,Customer 87,South,Telangana,Technology,Smartphone,24373,4,0.2,77993.6,19428.87,Oct,10,Q4
+ORD00487,2025-10-12,CUST0014,Customer 14,North,Haryana,Office Supplies,File Folder,1049,5,0.15,4458.25,881.93,Oct,10,Q4
+ORD00271,2025-10-13,CUST0142,Customer 142,South,Telangana,Office Supplies,Notebook,1223,5,0.05,5809.25,2072.92,Oct,10,Q4
+ORD00519,2025-10-13,CUST0029,Customer 29,South,Tamil Nadu,Furniture,Office Chair,14478,1,0.05,13754.1,4692.05,Oct,10,Q4
+ORD00548,2025-10-14,CUST0084,Customer 84,South,Kerala,Technology,Smartphone,60938,3,0.1,164532.6,40117.35,Oct,10,Q4
+ORD00224,2025-10-15,CUST0114,Customer 114,West,Gujarat,Technology,Headphones,28613,4,0.0,114452.0,40154.3,Oct,10,Q4
+ORD00507,2025-10-15,CUST0099,Customer 99,North,Punjab,Technology,Headphones,59328,4,0.0,237312.0,89443.99,Oct,10,Q4
+ORD00586,2025-10-18,CUST0110,Customer 110,South,Tamil Nadu,Office Supplies,Printer Paper,1381,3,0.1,3728.7,1306.08,Oct,10,Q4
+ORD00417,2025-10-18,CUST0149,Customer 149,South,Telangana,Furniture,Sofa,5294,3,0.0,15882.0,5729.38,Oct,10,Q4
+ORD00326,2025-10-19,CUST0173,Customer 173,West,Rajasthan,Accessories,Backpack,2022,2,0.05,3841.8,601.65,Oct,10,Q4
+ORD00514,2025-10-21,CUST0012,Customer 12,East,Odisha,Technology,Headphones,55678,3,0.1,150330.6,27538.13,Oct,10,Q4
+ORD00016,2025-10-22,CUST0180,Customer 180,South,Kerala,Technology,Headphones,55584,1,0.0,55584.0,17828.55,Oct,10,Q4
+ORD00314,2025-10-22,CUST0120,Customer 120,South,Kerala,Technology,Smartphone,54317,3,0.0,162951.0,39111.21,Oct,10,Q4
+ORD00116,2025-10-23,CUST0051,Customer 51,North,Punjab,Furniture,Desk,12255,3,0.0,36765.0,10535.71,Oct,10,Q4
+ORD00496,2025-10-23,CUST0130,Customer 130,West,Rajasthan,Technology,Keyboard,31513,4,0.0,126052.0,44089.3,Oct,10,Q4
+ORD00094,2025-10-26,CUST0155,Customer 155,West,Gujarat,Furniture,Table Lamp,17178,3,0.1,46380.6,11583.38,Oct,10,Q4
+ORD00541,2025-10-28,CUST0148,Customer 148,North,Delhi,Office Supplies,File Folder,1221,2,0.1,2197.8,477.78,Oct,10,Q4
+ORD00378,2025-10-28,CUST0100,Customer 100,North,Uttar Pradesh,Accessories,Power Bank,859,1,0.0,859.0,197.06,Oct,10,Q4
+ORD00266,2025-10-29,CUST0047,Customer 47,West,Maharashtra,Technology,Headphones,56277,5,0.0,281385.0,86400.07,Oct,10,Q4
+ORD00230,2025-10-29,CUST0064,Customer 64,North,Punjab,Office Supplies,Notebook,953,2,0.0,1906.0,470.36,Oct,10,Q4
+ORD00459,2025-10-29,CUST0116,Customer 116,East,West Bengal,Furniture,Office Chair,6584,2,0.0,13168.0,3120.03,Oct,10,Q4
+ORD00109,2025-10-30,CUST0112,Customer 112,North,Punjab,Office Supplies,Notebook,994,4,0.1,3578.4,755.23,Oct,10,Q4
+ORD00547,2025-10-30,CUST0149,Customer 149,West,Rajasthan,Furniture,Sofa,2582,5,0.0,12910.0,4691.53,Oct,10,Q4
+ORD00274,2025-10-31,CUST0035,Customer 35,South,Kerala,Technology,Laptop,1978,2,0.05,3758.2,833.88,Oct,10,Q4
+ORD00563,2025-11-01,CUST0014,Customer 14,South,Telangana,Accessories,Backpack,7338,3,0.2,17611.2,5100.16,Nov,11,Q4
+ORD00130,2025-11-01,CUST0176,Customer 176,North,Delhi,Accessories,Watch,954,5,0.2,3816.0,1058.31,Nov,11,Q4
+ORD00157,2025-11-01,CUST0174,Customer 174,East,Bihar,Technology,Smartphone,11561,2,0.15,19653.7,7274.15,Nov,11,Q4
+ORD00537,2025-11-02,CUST0172,Customer 172,East,West Bengal,Technology,Laptop,31920,2,0.15,54264.0,9652.5,Nov,11,Q4
+ORD00320,2025-11-03,CUST0155,Customer 155,North,Delhi,Technology,Laptop,6993,4,0.05,26573.4,4312.12,Nov,11,Q4
+ORD00286,2025-11-03,CUST0041,Customer 41,North,Punjab,Accessories,USB Cable,4256,2,0.1,7660.8,1663.31,Nov,11,Q4
+ORD00015,2025-11-03,CUST0121,Customer 121,North,Punjab,Furniture,Office Chair,10174,3,0.05,28995.9,9472.79,Nov,11,Q4
+ORD00363,2025-11-04,CUST0169,Customer 169,North,Punjab,Accessories,Backpack,2774,1,0.0,2774.0,830.68,Nov,11,Q4
+ORD00161,2025-11-05,CUST0055,Customer 55,West,Rajasthan,Technology,Monitor,59293,4,0.1,213454.8,36449.57,Nov,11,Q4
+ORD00399,2025-11-05,CUST0026,Customer 26,North,Delhi,Accessories,Backpack,4650,3,0.0,13950.0,3600.87,Nov,11,Q4
+ORD00375,2025-11-05,CUST0148,Customer 148,South,Tamil Nadu,Accessories,USB Cable,7525,3,0.1,20317.5,4558.41,Nov,11,Q4
+ORD00325,2025-11-06,CUST0141,Customer 141,North,Delhi,Technology,Laptop,47379,2,0.0,94758.0,21058.56,Nov,11,Q4
+ORD00488,2025-11-07,CUST0019,Customer 19,West,Goa,Technology,Keyboard,13948,2,0.0,27896.0,8616.12,Nov,11,Q4
+ORD00393,2025-11-09,CUST0118,Customer 118,South,Karnataka,Furniture,Bookshelf,786,1,0.0,786.0,211.56,Nov,11,Q4
+ORD00114,2025-11-09,CUST0122,Customer 122,West,Maharashtra,Furniture,Desk,13575,5,0.0,67875.0,23562.63,Nov,11,Q4
+ORD00474,2025-11-09,CUST0045,Customer 45,North,Punjab,Technology,Headphones,51313,4,0.15,174464.2,39690.7,Nov,11,Q4
+ORD00291,2025-11-09,CUST0079,Customer 79,South,Kerala,Office Supplies,Pens,1144,3,0.05,3260.4,948.51,Nov,11,Q4
+ORD00219,2025-11-10,CUST0152,Customer 152,West,Rajasthan,Technology,Headphones,25234,1,0.2,20187.2,4097.96,Nov,11,Q4
+ORD00231,2025-11-10,CUST0013,Customer 13,West,Goa,Office Supplies,Pens,1496,4,0.05,5684.8,1003.19,Nov,11,Q4
+ORD00002,2025-11-10,CUST0088,Customer 88,North,Uttar Pradesh,Technology,Headphones,64155,2,0.0,128310.0,43109.97,Nov,11,Q4
+ORD00406,2025-11-10,CUST0061,Customer 61,West,Gujarat,Furniture,Table Lamp,12467,1,0.05,11843.65,3289.49,Nov,11,Q4
+ORD00321,2025-11-12,CUST0179,Customer 179,South,Kerala,Furniture,Office Chair,12384,1,0.1,11145.6,2914.4,Nov,11,Q4
+ORD00584,2025-11-12,CUST0113,Customer 113,North,Delhi,Technology,Headphones,5831,3,0.05,16618.35,6069.98,Nov,11,Q4
+ORD00355,2025-11-14,CUST0116,Customer 116,West,Goa,Furniture,Office Chair,17362,5,0.0,86810.0,30323.77,Nov,11,Q4
+ORD00086,2025-11-14,CUST0143,Customer 143,North,Delhi,Technology,Monitor,15431,3,0.0,46293.0,7263.97,Nov,11,Q4
+ORD00098,2025-11-15,CUST0090,Customer 90,North,Delhi,Accessories,Backpack,1895,4,0.0,7580.0,1205.2,Nov,11,Q4
+ORD00131,2025-11-15,CUST0037,Customer 37,North,Uttar Pradesh,Furniture,Table Lamp,12960,3,0.05,36936.0,5327.67,Nov,11,Q4
+ORD00087,2025-11-16,CUST0137,Customer 137,North,Haryana,Office Supplies,Printer Paper,1650,1,0.1,1485.0,359.56,Nov,11,Q4
+ORD00404,2025-11-16,CUST0123,Customer 123,East,Jharkhand,Furniture,Sofa,12696,3,0.0,38088.0,11269.29,Nov,11,Q4
+ORD00288,2025-11-17,CUST0002,Customer 2,West,Goa,Furniture,Bookshelf,14092,1,0.05,13387.4,4139.25,Nov,11,Q4
+ORD00425,2025-11-18,CUST0094,Customer 94,West,Gujarat,Office Supplies,Pens,92,5,0.05,437.0,78.61,Nov,11,Q4
+ORD00354,2025-11-19,CUST0164,Customer 164,East,West Bengal,Technology,Headphones,63633,5,0.1,286348.5,63822.45,Nov,11,Q4
+ORD00096,2025-11-20,CUST0104,Customer 104,West,Rajasthan,Technology,Smartphone,34795,3,0.15,88727.25,21682.1,Nov,11,Q4
+ORD00472,2025-11-20,CUST0128,Customer 128,South,Tamil Nadu,Furniture,Table Lamp,11337,5,0.0,56685.0,16163.03,Nov,11,Q4
+ORD00599,2025-11-20,CUST0057,Customer 57,North,Delhi,Technology,Laptop,20785,1,0.0,20785.0,3846.09,Nov,11,Q4
+ORD00508,2025-11-21,CUST0029,Customer 29,East,West Bengal,Accessories,Wallet,575,1,0.05,546.25,120.23,Nov,11,Q4
+ORD00576,2025-11-21,CUST0085,Customer 85,North,Haryana,Technology,Smartphone,7254,2,0.1,13057.2,3985.35,Nov,11,Q4
+ORD00372,2025-11-21,CUST0062,Customer 62,East,Jharkhand,Technology,Smartphone,39756,2,0.0,79512.0,11691.26,Nov,11,Q4
+ORD00239,2025-11-21,CUST0078,Customer 78,West,Rajasthan,Office Supplies,Pens,2251,3,0.1,6077.7,923.35,Nov,11,Q4
+ORD00242,2025-11-22,CUST0039,Customer 39,North,Punjab,Furniture,Desk,5805,3,0.05,16544.25,3390.22,Nov,11,Q4
+ORD00196,2025-11-22,CUST0050,Customer 50,North,Haryana,Technology,Monitor,9458,4,0.0,37832.0,11352.61,Nov,11,Q4
+ORD00351,2025-11-23,CUST0026,Customer 26,South,Kerala,Furniture,Bookshelf,11342,5,0.05,53874.5,8911.78,Nov,11,Q4
+ORD00053,2025-11-23,CUST0083,Customer 83,South,Tamil Nadu,Office Supplies,File Folder,1599,5,0.05,7595.25,1404.58,Nov,11,Q4
+ORD00536,2025-11-23,CUST0060,Customer 60,East,West Bengal,Technology,Monitor,7677,5,0.0,38385.0,6133.53,Nov,11,Q4
+ORD00123,2025-11-24,CUST0135,Customer 135,West,Gujarat,Accessories,Watch,4103,5,0.1,18463.5,6162.68,Nov,11,Q4
+ORD00490,2025-11-25,CUST0118,Customer 118,North,Uttar Pradesh,Technology,Smartphone,7564,4,0.15,25717.6,4244.29,Nov,11,Q4
+ORD00479,2025-11-25,CUST0060,Customer 60,West,Maharashtra,Technology,Headphones,3323,1,0.05,3156.85,968.91,Nov,11,Q4
+ORD00084,2025-11-29,CUST0001,Customer 1,North,Punjab,Technology,Keyboard,40201,5,0.05,190954.75,29849.39,Nov,11,Q4
+ORD00218,2025-11-29,CUST0173,Customer 173,North,Haryana,Office Supplies,Notebook,1519,4,0.05,5772.2,1251.1,Nov,11,Q4
+ORD00042,2025-12-02,CUST0001,Customer 1,East,Jharkhand,Furniture,Desk,9907,5,0.1,44581.5,10351.63,Dec,12,Q4
+ORD00205,2025-12-02,CUST0054,Customer 54,East,West Bengal,Accessories,Watch,5658,4,0.1,20368.8,7059.67,Dec,12,Q4
+ORD00499,2025-12-02,CUST0022,Customer 22,West,Maharashtra,Office Supplies,File Folder,264,4,0.1,950.4,335.28,Dec,12,Q4
+ORD00148,2025-12-03,CUST0032,Customer 32,West,Goa,Furniture,Sofa,14698,4,0.1,52912.8,16636.72,Dec,12,Q4
+ORD00263,2025-12-04,CUST0161,Customer 161,North,Haryana,Accessories,Watch,1230,3,0.0,3690.0,1094.06,Dec,12,Q4
+ORD00317,2025-12-04,CUST0008,Customer 8,North,Punjab,Office Supplies,Stapler,1569,4,0.05,5962.2,1858.86,Dec,12,Q4
+ORD00068,2025-12-04,CUST0075,Customer 75,West,Gujarat,Furniture,Sofa,16481,4,0.2,52739.2,12344.08,Dec,12,Q4
+ORD00401,2025-12-05,CUST0080,Customer 80,South,Tamil Nadu,Office Supplies,Notebook,1467,3,0.0,4401.0,1110.91,Dec,12,Q4
+ORD00510,2025-12-06,CUST0127,Customer 127,East,Odisha,Accessories,Wallet,2355,5,0.0,11775.0,3336.46,Dec,12,Q4
+ORD00412,2025-12-06,CUST0022,Customer 22,West,Rajasthan,Furniture,Sofa,16496,4,0.05,62684.8,9027.03,Dec,12,Q4
+ORD00174,2025-12-06,CUST0039,Customer 39,South,Karnataka,Office Supplies,Printer Paper,1326,3,0.05,3779.1,831.22,Dec,12,Q4
+ORD00284,2025-12-06,CUST0174,Customer 174,North,Punjab,Accessories,Power Bank,5712,5,0.15,24276.0,8988.58,Dec,12,Q4
+ORD00449,2025-12-07,CUST0095,Customer 95,West,Rajasthan,Technology,Headphones,24000,1,0.0,24000.0,5218.22,Dec,12,Q4
+ORD00299,2025-12-07,CUST0131,Customer 131,East,Odisha,Technology,Monitor,47833,2,0.0,95666.0,31884.55,Dec,12,Q4
+ORD00280,2025-12-07,CUST0049,Customer 49,South,Tamil Nadu,Furniture,Office Chair,5350,4,0.0,21400.0,6391.61,Dec,12,Q4
+ORD00301,2025-12-07,CUST0099,Customer 99,South,Karnataka,Office Supplies,Stapler,2231,1,0.1,2007.9,540.63,Dec,12,Q4
+ORD00040,2025-12-07,CUST0094,Customer 94,North,Delhi,Technology,Keyboard,31645,4,0.0,126580.0,47579.06,Dec,12,Q4
+ORD00017,2025-12-09,CUST0081,Customer 81,North,Haryana,Furniture,Office Chair,17782,1,0.2,14225.6,4002.39,Dec,12,Q4
+ORD00434,2025-12-09,CUST0010,Customer 10,West,Goa,Furniture,Bookshelf,2147,3,0.0,6441.0,2178.23,Dec,12,Q4
+ORD00546,2025-12-09,CUST0153,Customer 153,South,Karnataka,Technology,Monitor,53912,1,0.05,51216.4,15739.87,Dec,12,Q4
+ORD00450,2025-12-10,CUST0054,Customer 54,South,Karnataka,Accessories,Watch,6081,1,0.0,6081.0,1699.88,Dec,12,Q4
+ORD00251,2025-12-10,CUST0144,Customer 144,West,Gujarat,Office Supplies,Notebook,1983,3,0.1,5354.1,1333.69,Dec,12,Q4
+ORD00598,2025-12-10,CUST0025,Customer 25,South,Tamil Nadu,Technology,Smartphone,46356,3,0.0,139068.0,46098.84,Dec,12,Q4
+ORD00101,2025-12-10,CUST0179,Customer 179,North,Punjab,Furniture,Bookshelf,13651,1,0.05,12968.45,3624.14,Dec,12,Q4
+ORD00190,2025-12-11,CUST0068,Customer 68,North,Delhi,Accessories,Backpack,4395,3,0.15,11207.25,2452.8,Dec,12,Q4
+ORD00422,2025-12-11,CUST0021,Customer 21,North,Punjab,Office Supplies,Printer Paper,1019,5,0.0,5095.0,1148.3,Dec,12,Q4
+ORD00004,2025-12-12,CUST0132,Customer 132,South,Tamil Nadu,Accessories,Power Bank,850,4,0.05,3230.0,928.63,Dec,12,Q4
+ORD00020,2025-12-12,CUST0093,Customer 93,South,Tamil Nadu,Office Supplies,Notebook,1874,4,0.0,7496.0,2452.26,Dec,12,Q4
+ORD00022,2025-12-12,CUST0151,Customer 151,West,Gujarat,Technology,Keyboard,23118,2,0.0,46236.0,10246.07,Dec,12,Q4
+ORD00410,2025-12-12,CUST0080,Customer 80,South,Telangana,Accessories,Watch,2890,2,0.1,5202.0,1498.84,Dec,12,Q4
+ORD00264,2025-12-13,CUST0150,Customer 150,South,Kerala,Office Supplies,Notebook,2400,5,0.1,10800.0,1917.03,Dec,12,Q4
+ORD00100,2025-12-13,CUST0090,Customer 90,South,Karnataka,Office Supplies,Pens,2202,2,0.05,4183.8,1107.03,Dec,12,Q4
+ORD00014,2025-12-14,CUST0108,Customer 108,East,Jharkhand,Technology,Monitor,4827,4,0.15,16411.8,4112.11,Dec,12,Q4
+ORD00543,2025-12-14,CUST0051,Customer 51,North,Delhi,Accessories,Power Bank,7332,3,0.0,21996.0,4500.19,Dec,12,Q4
+ORD00495,2025-12-14,CUST0004,Customer 4,North,Delhi,Furniture,Office Chair,14421,2,0.0,28842.0,7700.01,Dec,12,Q4
+ORD00486,2025-12-15,CUST0008,Customer 8,North,Delhi,Technology,Laptop,39924,2,0.0,79848.0,21717.53,Dec,12,Q4
+ORD00151,2025-12-15,CUST0008,Customer 8,East,West Bengal,Accessories,Backpack,840,3,0.15,2142.0,422.73,Dec,12,Q4
+ORD00429,2025-12-16,CUST0124,Customer 124,North,Haryana,Accessories,Power Bank,5678,4,0.1,20440.8,3585.08,Dec,12,Q4
+ORD00006,2025-12-17,CUST0146,Customer 146,West,Maharashtra,Office Supplies,Printer Paper,1659,2,0.05,3152.1,496.78,Dec,12,Q4
+ORD00572,2025-12-18,CUST0079,Customer 79,West,Goa,Accessories,Watch,4732,5,0.0,23660.0,4587.17,Dec,12,Q4
+ORD00194,2025-12-19,CUST0042,Customer 42,West,Gujarat,Technology,Headphones,32207,5,0.0,161035.0,57882.75,Dec,12,Q4
+ORD00033,2025-12-20,CUST0065,Customer 65,West,Goa,Technology,Laptop,13239,4,0.15,45012.6,16806.44,Dec,12,Q4
+ORD00142,2025-12-20,CUST0013,Customer 13,South,Telangana,Office Supplies,File Folder,1770,1,0.05,1681.5,592.22,Dec,12,Q4
+ORD00397,2025-12-20,CUST0019,Customer 19,South,Karnataka,Office Supplies,File Folder,2322,2,0.05,4411.8,878.55,Dec,12,Q4
+ORD00249,2025-12-20,CUST0071,Customer 71,South,Karnataka,Technology,Keyboard,34565,1,0.05,32836.75,11573.49,Dec,12,Q4
+ORD00453,2025-12-21,CUST0105,Customer 105,West,Maharashtra,Accessories,USB Cable,1501,4,0.2,4803.2,1465.69,Dec,12,Q4
+ORD00311,2025-12-21,CUST0104,Customer 104,East,Bihar,Office Supplies,Notebook,881,4,0.05,3347.8,1219.13,Dec,12,Q4
+ORD00341,2025-12-23,CUST0068,Customer 68,East,Jharkhand,Furniture,Table Lamp,8566,2,0.05,16275.4,5328.76,Dec,12,Q4
+ORD00135,2025-12-23,CUST0013,Customer 13,North,Haryana,Furniture,Office Chair,7987,5,0.05,37938.25,9017.71,Dec,12,Q4
+ORD00384,2025-12-24,CUST0019,Customer 19,East,Odisha,Accessories,Watch,5533,3,0.0,16599.0,3173.32,Dec,12,Q4
+ORD00210,2025-12-25,CUST0097,Customer 97,North,Haryana,Technology,Headphones,33203,4,0.2,106249.6,19618.68,Dec,12,Q4
+ORD00021,2025-12-26,CUST0052,Customer 52,South,Telangana,Furniture,Bookshelf,9380,1,0.05,8911.0,2278.9,Dec,12,Q4
+ORD00005,2025-12-26,CUST0172,Customer 172,North,Haryana,Technology,Keyboard,61100,3,0.15,155805.0,49529.29,Dec,12,Q4
+ORD00336,2025-12-26,CUST0138,Customer 138,East,West Bengal,Technology,Smartphone,32426,5,0.0,162130.0,23412.09,Dec,12,Q4
+ORD00498,2025-12-27,CUST0010,Customer 10,West,Maharashtra,Furniture,Table Lamp,9335,2,0.0,18670.0,4292.62,Dec,12,Q4
+ORD00324,2025-12-27,CUST0047,Customer 47,East,Odisha,Furniture,Table Lamp,2219,2,0.1,3994.2,778.92,Dec,12,Q4
+ORD00169,2025-12-27,CUST0014,Customer 14,East,Bihar,Accessories,Wallet,2889,2,0.05,5489.1,1204.01,Dec,12,Q4
+ORD00055,2025-12-27,CUST0126,Customer 126,North,Uttar Pradesh,Accessories,Wallet,1331,4,0.0,5324.0,1872.95,Dec,12,Q4
+ORD00257,2025-12-29,CUST0130,Customer 130,West,Goa,Furniture,Table Lamp,5643,3,0.05,16082.55,2648.4,Dec,12,Q4
+ORD00446,2025-12-30,CUST0168,Customer 168,North,Delhi,Office Supplies,File Folder,1570,4,0.1,5652.0,1512.48,Dec,12,Q4
+ORD00229,2025-12-30,CUST0111,Customer 111,West,Goa,Technology,Keyboard,23863,2,0.05,45339.7,8395.98,Dec,12,Q4
+ORD00290,2025-12-30,CUST0173,Customer 173,South,Telangana,Furniture,Bookshelf,2820,5,0.15,11985.0,2856.4,Dec,12,Q4
+ORD00243,2025-12-30,CUST0031,Customer 31,North,Delhi,Technology,Keyboard,2819,1,0.2,2255.2,819.65,Dec,12,Q4
+ORD00125,2025-12-30,CUST0098,Customer 98,West,Maharashtra,Office Supplies,Pens,210,5,0.05,997.5,273.47,Dec,12,Q4
+ORD00183,2025-12-30,CUST0048,Customer 48,South,Tamil Nadu,Office Supplies,Notebook,1843,3,0.1,4976.1,920.0,Dec,12,Q4
+ORD00504,2025-12-31,CUST0161,Customer 161,West,Goa,Office Supplies,Stapler,243,4,0.15,826.2,255.3,Dec,12,Q4
